@@ -14,7 +14,7 @@
                     </h1>
                     <div class="arck-btn">
                         <a class="d-flex justify-content-center align-items-center text-uppercase"
-                            href="project.html">View Works</a>
+                            href="project.html">Ver proyectos</a>
                     </div>
                 </div>
             </div>
@@ -33,7 +33,7 @@
                     </h1>
                     <div class="arck-btn">
                         <a class="d-flex justify-content-center align-items-center text-uppercase"
-                            href="project.html">View Works</a>
+                            href="project.html">Ver proyectos</a>
                     </div>
                 </div>
             </div>
@@ -52,7 +52,7 @@
                     </h1>
                     <div class="arck-btn">
                         <a class="d-flex justify-content-center align-items-center text-uppercase"
-                            href="project.html">View Works</a>
+                            href="project.html">Ver proyectos</a>
                     </div>
                 </div>
             </div>
@@ -84,7 +84,7 @@
                                 Desde la planificación hasta la ejecución, cada detalle se cuida con precisión y cuidado
                                 para lograr un resultado armónico y equilibrado.
                             </p>
-                            <a class="btn-more text-uppercase" href="service-single.html">Read More <i
+                            <a class="btn-more text-uppercase" href="service-single.html">Más servicios <i
                                     class="fal fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -105,7 +105,7 @@
                                 Proceso que refleje la belleza natural del entorno, combinando elementos técnicos y
                                 creativos para lograr una composición personalizada de texturas y colores.
                             </p>
-                            <a class="btn-more text-uppercase" href="service-single.html">Read More <i
+                            <a class="btn-more text-uppercase" href="service-single.html">Más servicios <i
                                     class="fal fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -123,12 +123,12 @@
                         <div class="arck-inner-text headline pera-content">
                             <h3><a href="service-single.html">Tapicería y cortinas</a></h3>
                             <p>
-                                
+
                                 Cada pieza es una creación única y personalizada que se adapta a las necesidades y
                                 gustos de cada cliente.
-								<br><br>
+                                <br><br>
                             </p>
-                            <a class="btn-more text-uppercase" href="service-single.html">Read More <i
+                            <a class="btn-more text-uppercase" href="service-single.html">Más servicios <i
                                     class="fal fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -151,24 +151,25 @@
                         <span class="about-bg position-absolute"><img src="assets/img/bg/ab-bg.png" alt=""></span>
                         <div class="arck-section-title headline pera-content wow fadeInUp" data-wow-delay="200ms"
                             data-wow-duration="1500ms">
-                            <span class="sub-title text-uppercase">About Archix</span>
-                            <h2>Global Architecture Design
-                                Studio Since 1995</h2>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting indust. Lorem Ipsum has
-                                been the dard dummy text ever since the 1500s, when an unknown printer took a galley of
-                                type and scrambled it to a type speci men book. It has survived not turies also the leap
-                                into electronic typeset ting,he printing and typesetting industry</p>
+                            <span class="sub-title text-uppercase">La belleza del espacio</span>
+                            <h2>Ximena Moncada Design</h2>
+                            <p>
+                                En Ximena Moncada Design, cada proyecto de diseño de interiores es una obra maestra en
+                                la que se fusiona la creatividad con la elegancia para crear espacios únicos y
+                                personalizados que reflejen el estilo y la personalidad de cada cliente. Cada detalle es
+                                cuidadosamente seleccionado y planeado, desde la disposición del mobiliario hasta la
+                                iluminación y los accesorios decorativos, todo para lograr un ambiente armonioso y
+                                acogedor que exceda las expectativas del cliente.
+                            </p>
                         </div>
                         <div class="arck-year-experience headline pera-content d-flex align-items-center wow fadeInUp"
                             data-wow-delay="400ms" data-wow-duration="1500ms">
-                            <h3><span class="counter">28</span>+</h3>
-                            <p>Years
-                                Expiriance
-                                Working </p>
+                            <h3><span class="counter">3</span>+</h3>
+                            <p>Años de experiencia</p>
                         </div>
                         <div class="arck-btn wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                             <a class="d-flex justify-content-center align-items-center text-uppercase"
-                                href="about.html">Read More</a>
+                                href="about.html">Ver más</a>
                         </div>
                     </div>
                 </div>
@@ -196,9 +197,10 @@
     <div class="container">
         <div class="arck-project-top-content d-flex justify-content-between align-items-center">
             <div class="arck-section-title headline pera-content">
-                <h2>Latest Projects</h2>
+			<span class="sub-title text-uppercase">Algunos de nuestros proyectos</span>
+                <h2>XM Design</h2>
             </div>
-            <div class="arck-project-filter-btn ul-li text-center">
+            <div hidden class="arck-project-filter-btn ul-li text-center">
                 <ul class="filter clearfix">
                     <li data-filter="all" class="all active">All</li>
                     <li data-filter="two" class="two">Interiors</li>
@@ -351,11 +353,11 @@
     <div class="container">
         <div class="arck-section-title headline text-center pera-content wow fadeInUp" data-wow-delay="200ms"
             data-wow-duration="1500ms">
-            <span class="sub-title text-uppercase">Work Process</span>
-            <h2>How We Complete Works</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor labore et dolore magna
+            <span class="sub-title text-uppercase">Proceso de trabajo</span>
+            <h2>¿Cómo trabajamos en XM Design?</h2>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor labore et dolore magna
                 aliqua. Ut enim ad minim veniam quis.
-            </p>
+            </p> -->
         </div>
         <div class="arck-work-process-content">
             <div class="row justify-content-center">
@@ -365,7 +367,7 @@
                             <img src="assets/icon/ic4.png" alt="">
                         </div>
                         <div class="inner-text headline pera-content">
-                            <h3>Planning & Design</h3>
+                            <h3>Planeamiento y diseño</h3>
                             <p>Prepare to meet the one and only For the WordPress theme perfect for both offer in the
                                 corporate ativeects.</p>
                             <div class="work-serial position-relative">
@@ -381,7 +383,7 @@
                             <img src="assets/icon/ic5.png" alt="">
                         </div>
                         <div class="inner-text headline pera-content">
-                            <h3>Draws & Sketches</h3>
+                            <h3>Dibujos y bocetos</h3>
                             <p>Prepare to meet the one and only For the WordPress theme perfect for both offer in the
                                 corporate ativeects.</p>
                             <div class="work-serial position-relative">
@@ -397,7 +399,7 @@
                             <img src="assets/icon/ic6.png" alt="">
                         </div>
                         <div class="inner-text headline pera-content">
-                            <h3>Start Building</h3>
+                            <h3>Iniciar la construcción</h3>
                             <p>Prepare to meet the one and only For the WordPress theme perfect for both offer in the
                                 corporate ativeects.</p>
                             <div class="work-serial position-relative">
@@ -423,13 +425,13 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="arck-counter-inner-item headline pera-content text-center position-relative">
                         <h3><span class="counter">30</span>k+</h3>
-                        <p>Happy Clients</p>
+                        <p>Clientes Satisfechos</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="arck-counter-inner-item headline pera-content text-center position-relative">
                         <h3><span class="counter">34</span>k+</h3>
-                        <p>Completed Projects</p>
+                        <p>Poryectos terminados</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -453,7 +455,7 @@
 
 <!-- Start of Team Membar section
 	============================================= -->
-<section id="arck-team" class="arck-team-section position-relative">
+<section hidden id="arck-team" class="arck-team-section position-relative">
     <div class="container">
         <div class="arck-section-title headline text-center pera-content wow fadeInUp" data-wow-delay="200ms"
             data-wow-duration="1500ms">
@@ -672,7 +674,7 @@
 
 <!-- Start of Appointment video section
 	============================================= -->
-<section id="arck-appointment-video" class="arck-appointment-video-section position-relative">
+<section hidden id="arck-appointment-video" class="arck-appointment-video-section position-relative">
     <span class="side-icon position-absolute"><img src="assets/icon/ic7.png" alt=""></span>
     <div class="container">
         <div class="arck-appointment-form-wrap">
@@ -748,95 +750,7 @@
 <!-- End of Appointment Video section
 	============================================= -->
 
-<!-- Start of Blog section
-	============================================= -->
-<section id="arck-blog" class="arck-blog-section">
-    <div class="container">
-        <div class="arck-section-title headline text-center pera-content wow fadeInUp" data-wow-delay="200ms"
-            data-wow-duration="1500ms">
-            <span class="sub-title text-uppercase">Our Blog</span>
-            <h2>Our Latest News Feed</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor labore et dolore magna
-                aliqua. Ut enim ad minim veniam quis.
-            </p>
-        </div>
-        <div class="arck-blog-content">
-            <div class="row">
-                <div class="col-lg-8">
-                    <div class="arck-blog-item-wrapper">
-                        <div class="arck-blog-item wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="inner-img">
-                                        <img src="assets/img/blog/blg1.jpg" alt="">
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="inner-text headline pera-content">
-                                        <div class="blog-meta">
-                                            <a href="#"><span class="blog-cat text-uppercase">Architecture</span></a>
-                                            <a href="#"><span class="date">Dec 18th, 2022</span></a>
-                                        </div>
-                                        <h3><a href="blog-single.html">Architecture & Intirior News
-                                                In Melbourn Australia</a></h3>
-                                        <p>Curabitur vitae euismod odio, nec tempor turpis. Sed dictum dictum To
-                                            lPhasellus at rhoncus lacus have to do. </p>
-                                        <a class="read-more-btn text-uppercase" href="blog-single.html"> read more <i
-                                                class="fal fa-arrow-right"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="arck-blog-item-2 wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="inner-text headline pera-content">
-                                        <div class="blog-meta">
-                                            <a href="#"><span class="blog-cat text-uppercase">Architecture</span></a>
-                                            <a href="#"><span class="date">Dec 18th, 2022</span></a>
-                                        </div>
-                                        <h3><a href="blog-single.html">Architecture & Intirior News
-                                                In Melbourn Australia</a></h3>
-                                        <p>Curabitur vitae euismod odio, nec tempor turpis. Sed dictum dictum To
-                                            lPhasellus at rhoncus lacus have to do. </p>
-                                        <a class="read-more-btn text-uppercase" href="blog-single.html"> read more <i
-                                                class="fal fa-arrow-right"></i></a>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="inner-img">
-                                        <img src="assets/img/blog/blg1.jpg" alt="">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="arck-blog-item-2 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
-                        <div class="inner-img">
-                            <img src="assets/img/blog/blg3.jpg" alt="">
-                        </div>
-                        <div class="inner-text headline pera-content">
-                            <div class="blog-meta">
-                                <a href="#"><span class="blog-cat text-uppercase">Architecture</span></a>
-                                <a href="#"><span class="date">Dec 18th, 2022</span></a>
-                            </div>
-                            <h3><a href="blog-single.html">Architecture & Intirior News
-                                    In Melbourn Australia</a></h3>
-                            <p>Curabitur vitae euismod odio, nec tempor turpis. Sed dictum dictum To lPhasellus at
-                                rhoncus lacus have to do. </p>
-                            <a class="read-more-btn text-uppercase" href="blog-single.html"> read more <i
-                                    class="fal fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End of  Blog section
-	============================================= -->
+
 
 <!-- Start of Sponsor section
 	============================================= -->
