@@ -197,7 +197,7 @@
     <div class="container">
         <div class="arck-project-top-content d-flex justify-content-between align-items-center">
             <div class="arck-section-title headline pera-content">
-			<span class="sub-title text-uppercase">Algunos de nuestros proyectos</span>
+                <span class="sub-title text-uppercase">Algunos de nuestros proyectos</span>
                 <h2>XM Design</h2>
             </div>
             <div hidden class="arck-project-filter-btn ul-li text-center">
@@ -368,8 +368,11 @@
                         </div>
                         <div class="inner-text headline pera-content">
                             <h3>Planeamiento y diseño</h3>
-                            <p>Prepare to meet the one and only For the WordPress theme perfect for both offer in the
-                                corporate ativeects.</p>
+                            <p>
+                                Combinando habilidades artísticas y técnicas, trabajamos en estrecha colaboración con
+                                nuestros clientes para garantizar que cada detalle sea considerado y que los resultados
+                                sean coherentes con sus expectativas.
+                            </p>
                             <div class="work-serial position-relative">
                                 <h4>01</h4>
                                 <span class="text-uppercase">Step</span>
@@ -384,8 +387,11 @@
                         </div>
                         <div class="inner-text headline pera-content">
                             <h3>Dibujos y bocetos</h3>
-                            <p>Prepare to meet the one and only For the WordPress theme perfect for both offer in the
-                                corporate ativeects.</p>
+                            <p>
+                                Nuestros talentosos diseñadores utilizan sus habilidades artísticas y técnicas para
+                                crear bocetos detallados y precisos que permiten visualizar el diseño en un plano
+                                tridimensional <br><br>
+                            </p>
                             <div class="work-serial position-relative">
                                 <h4>02</h4>
                                 <span class="text-uppercase">Step</span>
