@@ -375,7 +375,7 @@
                             </p>
                             <div class="work-serial position-relative">
                                 <h4>01</h4>
-                                <span class="text-uppercase">Step</span>
+                                <span class="text-uppercase">Paso</span>
                             </div>
                         </div>
                     </div>
@@ -394,7 +394,7 @@
                             </p>
                             <div class="work-serial position-relative">
                                 <h4>02</h4>
-                                <span class="text-uppercase">Step</span>
+                                <span class="text-uppercase">Paso</span>
                             </div>
                         </div>
                     </div>
@@ -406,11 +406,13 @@
                         </div>
                         <div class="inner-text headline pera-content">
                             <h3>Iniciar la construcción</h3>
-                            <p>Prepare to meet the one and only For the WordPress theme perfect for both offer in the
-                                corporate ativeects.</p>
+                            <p>
+                                En nuestro equipo, entendemos la importancia de la coordinación y la colaboración para
+                                garantizar que el proyecto avance sin problemas desde el inicio hasta la finalización.
+                            </p>
                             <div class="work-serial position-relative">
                                 <h4>03</h4>
-                                <span class="text-uppercase">Step</span>
+                                <span class="text-uppercase">Paso</span>
                             </div>
                         </div>
                     </div>
@@ -459,140 +461,6 @@
 <!-- End of Counter section
 	============================================= -->
 
-<!-- Start of Team Membar section
-	============================================= -->
-<section hidden id="arck-team" class="arck-team-section position-relative">
-    <div class="container">
-        <div class="arck-section-title headline text-center pera-content wow fadeInUp" data-wow-delay="200ms"
-            data-wow-duration="1500ms">
-            <span class="sub-title text-uppercase">Our Engineer</span>
-            <h2>Meet Our Skilled Team</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor labore et dolore magna
-                aliqua. Ut enim ad minim veniam quis.
-            </p>
-        </div>
-        <div class="arck-team-content">
-            <div class="arck-team-slider">
-                <div class="arck-slider-inner-item">
-                    <div class="arck-team-item position-relative">
-                        <div class="inner-img">
-                            <img src="assets/img/team/tm1.jpg" alt="">
-                        </div>
-                        <div class="inner-text text-center headline pera-content">
-                            <h3><a href="team-single.html">Mrowni Rosen</a></h3>
-                            <span>Architect</span>
-                        </div>
-                        <div class="inner-social text-center ul-li">
-                            <ul>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="arck-slider-inner-item">
-                    <div class="arck-team-item position-relative">
-                        <div class="inner-img">
-                            <img src="assets/img/team/tm2.jpg" alt="">
-                        </div>
-                        <div class="inner-text text-center headline pera-content">
-                            <h3><a href="team-single.html">Mrowni Rosen</a></h3>
-                            <span>Architect</span>
-                        </div>
-                        <div class="inner-social text-center ul-li">
-                            <ul>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="arck-slider-inner-item">
-                    <div class="arck-team-item position-relative">
-                        <div class="inner-img">
-                            <img src="assets/img/team/tm3.jpg" alt="">
-                        </div>
-                        <div class="inner-text text-center headline pera-content">
-                            <h3><a href="team-single.html">Mrowni Rosen</a></h3>
-                            <span>Architect</span>
-                        </div>
-                        <div class="inner-social text-center ul-li">
-                            <ul>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="arck-slider-inner-item">
-                    <div class="arck-team-item position-relative">
-                        <div class="inner-img">
-                            <img src="assets/img/team/tm1.jpg" alt="">
-                        </div>
-                        <div class="inner-text text-center headline pera-content">
-                            <h3><a href="team-single.html">Mrowni Rosen</a></h3>
-                            <span>Architect</span>
-                        </div>
-                        <div class="inner-social text-center ul-li">
-                            <ul>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="arck-slider-inner-item">
-                    <div class="arck-team-item position-relative">
-                        <div class="inner-img">
-                            <img src="assets/img/team/tm2.jpg" alt="">
-                        </div>
-                        <div class="inner-text text-center headline pera-content">
-                            <h3><a href="team-single.html">Mrowni Rosen</a></h3>
-                            <span>Architect</span>
-                        </div>
-                        <div class="inner-social text-center ul-li">
-                            <ul>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="arck-slider-inner-item">
-                    <div class="arck-team-item position-relative">
-                        <div class="inner-img">
-                            <img src="assets/img/team/tm3.jpg" alt="">
-                        </div>
-                        <div class="inner-text text-center headline pera-content">
-                            <h3><a href="team-single.html">Mrowni Rosen</a></h3>
-                            <span>Architect</span>
-                        </div>
-                        <div class="inner-social text-center ul-li">
-                            <ul>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End of Team Member  section
-	============================================= -->
 
 <!-- Start of Testimonial section
 	============================================= -->
@@ -613,8 +481,8 @@
                     <div class="arck-testimonial-text-wrap">
                         <div class="arck-section-title headline pera-content wow fadeInUp" data-wow-delay="400ms"
                             data-wow-duration="1500ms">
-                            <span class="sub-title text-uppercase">Client Review</span>
-                            <h2>What Our Client Say</h2>
+                            <span class="sub-title text-uppercase">Opiniones</span>
+                            <h2>¿Qué dicen nuestros clientes?</h2>
                         </div>
                         <div class="arck-testimonial-slider-wrap wow fadeInUp" data-wow-delay="600ms"
                             data-wow-duration="1500ms">
@@ -630,8 +498,8 @@
                                             <img src="assets/img/about/tst1.jpg" alt="">
                                         </div>
                                         <div class="author-text headline">
-                                            <h3>Thone De Smith </h3>
-                                            <span>House Owner</span>
+                                            <h3>Cliente 1</h3>
+                                            <span>Empresa</span>
                                         </div>
                                     </div>
                                 </div>
@@ -646,8 +514,8 @@
                                             <img src="assets/img/about/tst1.jpg" alt="">
                                         </div>
                                         <div class="author-text headline">
-                                            <h3>Thone De Smith </h3>
-                                            <span>House Owner</span>
+                                            <h3>Cliente 2</h3>
+                                            <span>Empresa</span>
                                         </div>
                                     </div>
                                 </div>
@@ -662,8 +530,8 @@
                                             <img src="assets/img/about/tst1.jpg" alt="">
                                         </div>
                                         <div class="author-text headline">
-                                            <h3>Thone De Smith </h3>
-                                            <span>House Owner</span>
+                                            <h3>Cliente 3</h3>
+                                            <span>Empresa</span>
                                         </div>
                                     </div>
                                 </div>
@@ -760,6 +628,14 @@
 
 <!-- Start of Sponsor section
 	============================================= -->
+<div class="container text-center">
+    <div class="arck-section-title headline pera-content wow fadeInUp" data-wow-delay="400ms"
+        data-wow-duration="1500ms">
+        <span class="sub-title text-uppercase">Opiniones</span>
+        <h2>Empresas con las qhe hemos colaborado</h2>
+    </div>
+</div>
+
 <section id="arck-sponsor" class="arck-sponsor-section">
     <div class="container">
         <div class="arck-sponsor-slider">
