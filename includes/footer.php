@@ -1,4 +1,4 @@
-<footer id="arck-footer" class="arck-footer-section" data-background="assets/img/bg/footer-bg.jpg">
+<footer id="arck-footer" class="arck-footer-section" data-background="/assets/img/bg/footer-bg.jpg">
     <div hidden class="arck-footer-widget-wrapper">
         <div class="container">
             <div class="row">
@@ -44,7 +44,7 @@
                             <h3 class="widget-title">Recent Blog</h3>
                             <div class="blog-img-content d-flex align-items-center">
                                 <div class="blog-img nioimage_hover">
-                                    <img src="assets/img/blog/bl1.jpg" alt="">
+                                    <img src="/assets/img/blog/bl1.jpg" alt="">
                                 </div>
                                 <div class="blog-text headline">
                                     <h3> <a href="blog-single.html">Pellentesque velit mauris, cursus id eros sed
@@ -54,7 +54,7 @@
                             </div>
                             <div class="blog-img-content d-flex align-items-center">
                                 <div class="blog-img nioimage_hover">
-                                    <img src="assets/img/blog/bl2.jpg" alt="">
+                                    <img src="/assets/img/blog/bl2.jpg" alt="">
                                 </div>
                                 <div class="blog-text headline">
                                     <h3> <a href="blog-single.html">Pellentesque velit mauris, cursus id eros sed

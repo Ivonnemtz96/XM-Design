@@ -1,7 +1,7 @@
 <!-- Start of Breadcrumb section
 	============================================= -->
 <section id="arck-breadcrumb" class="arck-breadcrumb-section-2 position-relative"
-    data-background="assets/img/bg/ar-shape.png">
+    data-background="/assets/img/bg/ar-shape.png">
     <div class="slider-side-content position-absolute">
         <span class="archx-slider-side1 position-absolute"><a href="#">Contact@gmail.com</a></span>
     </div>
@@ -46,7 +46,7 @@
             <div class="grid-item grid-size-25 interiors design" data-category="interiors design">
                 <div class="arck-project-item position-relative two">
                     <div class="inner-img">
-                        <img src="assets/img/project/pro1.jpg" alt="">
+                        <img src="/assets/img/project/pro1.jpg" alt="">
                     </div>
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
@@ -65,7 +65,7 @@
             <div class="grid-item grid-size-25 interiors design" data-category="interiors design">
                 <div class="arck-project-item position-relative two">
                     <div class="inner-img">
-                        <img src="assets/img/project/pro2.jpg" alt="">
+                        <img src="/assets/img/project/pro2.jpg" alt="">
                     </div>
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
@@ -84,7 +84,7 @@
             <div class="grid-item grid-size-25 building design" data-category="building design">
                 <div class="arck-project-item position-relative two">
                     <div class="inner-img">
-                        <img src="assets/img/project/pro3.jpg" alt="">
+                        <img src="/assets/img/project/pro3.jpg" alt="">
                     </div>
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
@@ -103,7 +103,7 @@
             <div class="grid-item grid-size-25 interiors house_exterior" data-category="interiors house_exterior">
                 <div class="arck-project-item position-relative two">
                     <div class="inner-img">
-                        <img src="assets/img/project/pro4.jpg" alt="">
+                        <img src="/assets/img/project/pro4.jpg" alt="">
                     </div>
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
@@ -122,7 +122,7 @@
             <div class="grid-item grid-size-25 house_exterior" data-category="house_exterior">
                 <div class="arck-project-item position-relative two">
                     <div class="inner-img">
-                        <img src="assets/img/project/pro5.jpg" alt="">
+                        <img src="/assets/img/project/pro5.jpg" alt="">
                     </div>
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
@@ -141,7 +141,7 @@
             <div class="grid-item grid-size-25 building" data-category="building">
                 <div class="arck-project-item position-relative two">
                     <div class="inner-img">
-                        <img src="assets/img/project/pro6.jpg" alt="">
+                        <img src="/assets/img/project/pro6.jpg" alt="">
                     </div>
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
@@ -160,7 +160,7 @@
             <div class="grid-item grid-size-25 design" data-category="design">
                 <div class="arck-project-item position-relative two">
                     <div class="inner-img">
-                        <img src="assets/img/project/pro7.jpg" alt="">
+                        <img src="/assets/img/project/pro7.jpg" alt="">
                     </div>
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
@@ -180,7 +180,7 @@
                 data-category="interiors design house_exterior">
                 <div class="arck-project-item position-relative two">
                     <div class="inner-img">
-                        <img src="assets/img/project/pro8.jpg" alt="">
+                        <img src="/assets/img/project/pro8.jpg" alt="">
                     </div>
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
@@ -199,7 +199,7 @@
             <!-- <div class="grid-item grid-size-25 interiors design building" data-category="interiors design building">
                 <div class="arck-project-item position-relative two">
                     <div class="inner-img">
-                        <img src="assets/img/project/pro9.jpg" alt="">
+                        <img src="/assets/img/project/pro9.jpg" alt="">
                     </div>
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
@@ -218,7 +218,7 @@
             <div class="grid-item grid-size-25 interiors" data-category="interiors">
                 <div class="arck-project-item position-relative two">
                     <div class="inner-img">
-                        <img src="assets/img/project/pro10.jpg" alt="">
+                        <img src="/assets/img/project/pro10.jpg" alt="">
                     </div>
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
@@ -237,7 +237,7 @@
             <div class="grid-item grid-size-25 house_exterior design" data-category="house_exterior design">
                 <div class="arck-project-item position-relative two">
                     <div class="inner-img">
-                        <img src="assets/img/project/pro11.jpg" alt="">
+                        <img src="/assets/img/project/pro11.jpg" alt="">
                     </div>
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
@@ -256,7 +256,7 @@
             <div class="grid-item grid-size-25 house_exterior" data-category="house_exterior">
                 <div class="arck-project-item position-relative two">
                     <div class="inner-img">
-                        <img src="assets/img/project/pro12.jpg" alt="">
+                        <img src="/assets/img/project/pro12.jpg" alt="">
                     </div>
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
@@ -293,28 +293,28 @@
     <div class="container">
         <div class="arck-sponsor-slider">
             <div class="arck-sponsor-slider-item">
-                <img src="assets/img/sponsor/sp1.png" alt="">
+                <img src="/assets/img/sponsor/sp1.png" alt="">
             </div>
             <div class="arck-sponsor-slider-item">
-                <img src="assets/img/sponsor/sp2.png" alt="">
+                <img src="/assets/img/sponsor/sp2.png" alt="">
             </div>
             <div class="arck-sponsor-slider-item">
-                <img src="assets/img/sponsor/sp3.png" alt="">
+                <img src="/assets/img/sponsor/sp3.png" alt="">
             </div>
             <div class="arck-sponsor-slider-item">
-                <img src="assets/img/sponsor/sp4.png" alt="">
+                <img src="/assets/img/sponsor/sp4.png" alt="">
             </div>
             <div class="arck-sponsor-slider-item">
-                <img src="assets/img/sponsor/sp5.png" alt="">
+                <img src="/assets/img/sponsor/sp5.png" alt="">
             </div>
             <div class="arck-sponsor-slider-item">
-                <img src="assets/img/sponsor/sp1.png" alt="">
+                <img src="/assets/img/sponsor/sp1.png" alt="">
             </div>
             <div class="arck-sponsor-slider-item">
-                <img src="assets/img/sponsor/sp2.png" alt="">
+                <img src="/assets/img/sponsor/sp2.png" alt="">
             </div>
             <div class="arck-sponsor-slider-item">
-                <img src="assets/img/sponsor/sp3.png" alt="">
+                <img src="/assets/img/sponsor/sp3.png" alt="">
             </div>
         </div>
     </div>

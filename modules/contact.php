@@ -1,7 +1,7 @@
 <!-- Start of Breadcrumb section
 	============================================= -->
 <section id="arck-breadcrumb" class="arck-breadcrumb-section-2 position-relative"
-  data-background="assets/img/bg/ar-shape.png">
+  data-background="/assets/img/bg/ar-shape.png">
   <div class="slider-side-content position-absolute">
     <span class="archx-slider-side1 position-absolute"><a
         href="mailto:ximena@ximenamoncada.com">ximena@ximenamoncada.com</a></span>
@@ -28,15 +28,15 @@
         <div class="col-lg-6">
           <div class="arck-contact-page-cta position-relative">
             <div class="contact-cta-inner-img position-relative">
-              <img src="assets/img/about/cn1.jpg" alt="">
+              <img src="/assets/img/about/cn1.jpg" alt="">
             </div>
             <div class="contact-cta-inner-text position-absolute headline pera-content"
-              data-background="assets/img/about/cn-bg.jpg">
+              data-background="/assets/img/about/cn-bg.jpg">
               <h3>Detalles de contacto</h3>
               <div class="arck-video-cta-wrap">
                 <div class="video-cta-item d-flex">
                   <div class="inner-icon">
-                    <img src="assets/icon/ic8.png" alt="">
+                    <img src="/assets/icon/ic8.png" alt="">
                   </div>
                   <div class="inner-text headline pera-content">
                     <h3>Dirección:</h3>
@@ -47,7 +47,7 @@
                 </div>
                 <div class="video-cta-item d-flex">
                   <div class="inner-icon">
-                    <img src="assets/icon/ic9.png" alt="">
+                    <img src="/assets/icon/ic9.png" alt="">
                   </div>
                   <div class="inner-text headline pera-content">
                     <h3>Esríbenos:</h3>
@@ -57,7 +57,7 @@
                 </div>
                 <div class="video-cta-item d-flex">
                   <div class="inner-icon">
-                    <img src="assets/icon/ic10.png" alt="">
+                    <img src="/assets/icon/ic10.png" alt="">
                   </div>
                   <div class="inner-text headline pera-content">
                     <h3>Teléfonos:</h3>

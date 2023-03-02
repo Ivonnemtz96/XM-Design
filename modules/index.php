@@ -1,7 +1,7 @@
 <section id="arck-slider-1" class="arck-slider-section-1 position-relative">
     <div id="arck-slider-main_1" class="arck-slider-area">
         <div class="arck-main-slider-item position-relative">
-            <div class="arck-main-slider-img position-absolute img-zooming" data-background="assets/img/slider/s1.jpg">
+            <div class="arck-main-slider-img position-absolute img-zooming" data-background="/assets/img/slider/s1.jpg">
             </div>
             <div class="container">
                 <div class="arck-slider-main-text headline position-relative">
@@ -20,7 +20,7 @@
             </div>
         </div>
         <div class="arck-main-slider-item position-relative">
-            <div class="arck-main-slider-img position-absolute img-zooming" data-background="assets/img/slider/s2.jpg">
+            <div class="arck-main-slider-img position-absolute img-zooming" data-background="/assets/img/slider/s2.jpg">
             </div>
             <div class="container">
                 <div class="arck-slider-main-text headline position-relative">
@@ -39,7 +39,7 @@
             </div>
         </div>
         <div class="arck-main-slider-item position-relative">
-            <div class="arck-main-slider-img position-absolute img-zooming" data-background="assets/img/slider/s3.jpg">
+            <div class="arck-main-slider-img position-absolute img-zooming" data-background="/assets/img/slider/s3.jpg">
             </div>
             <div class="container">
                 <div class="arck-slider-main-text headline position-relative">
@@ -73,10 +73,10 @@
                     <div class="arck-service-item text-center position-relative">
                         <span class="serial-no position-absolute">01</span>
                         <div class="hover-img position-absolute">
-                            <img src="assets/img/service/ser1.jpg" alt="">
+                            <img src="/assets/img/service/ser1.jpg" alt="">
                         </div>
                         <div class="inner-icon position-relative">
-                            <img src="assets/icon/ic1.png" alt="">
+                            <img src="/assets/icon/ic1.png" alt="">
                         </div>
                         <div class="arck-inner-text headline pera-content">
                             <h3><a href="service-single.html">Remodelación de espacios</a></h3>
@@ -94,10 +94,10 @@
                     <div class="arck-service-item text-center position-relative active">
                         <span class="serial-no position-absolute">02</span>
                         <div class="hover-img position-absolute">
-                            <img src="assets/img/service/ser1.jpg" alt="">
+                            <img src="/assets/img/service/ser1.jpg" alt="">
                         </div>
                         <div class="inner-icon position-relative">
-                            <img src="assets/icon/ic2.png" alt="">
+                            <img src="/assets/icon/ic2.png" alt="">
                         </div>
                         <div class="arck-inner-text headline pera-content">
                             <h3><a href="service-single.html">Diseño de jardines</a></h3>
@@ -115,10 +115,10 @@
                     <div class="arck-service-item text-center position-relative">
                         <span class="serial-no position-absolute">03</span>
                         <div class="hover-img position-absolute">
-                            <img src="assets/img/service/ser1.jpg" alt="">
+                            <img src="/assets/img/service/ser1.jpg" alt="">
                         </div>
                         <div class="inner-icon position-relative">
-                            <img src="assets/icon/ic3.png" alt="">
+                            <img src="/assets/icon/ic3.png" alt="">
                         </div>
                         <div class="arck-inner-text headline pera-content">
                             <h3><a href="service-single.html">Tapicería y cortinas</a></h3>
@@ -148,7 +148,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="arck-about-text-wrapper position-relative">
-                        <span class="about-bg position-absolute"><img src="assets/img/bg/ab-bg.png" alt=""></span>
+                        <span class="about-bg position-absolute"><img src="/assets/img/bg/ab-bg.png" alt=""></span>
                         <div class="arck-section-title headline pera-content wow fadeInUp" data-wow-delay="200ms"
                             data-wow-duration="1500ms">
                             <span class="sub-title text-uppercase">La belleza del espacio</span>
@@ -178,9 +178,9 @@
                         data-wow-duration="1500ms">
                         <div class="acrk-img-shape1 position-absolute"><i></i></div>
                         <div class="acrk-img-shape2 position-absolute"><i></i></div>
-                        <span class="shape1 position-absolute"><img src="assets/img/bg/dot-shape.png" alt=""></span>
+                        <span class="shape1 position-absolute"><img src="/assets/img/bg/dot-shape.png" alt=""></span>
                         <div class="inner-img">
-                            <img src="assets/img/about/ab1.jpg" alt="">
+                            <img src="/assets/img/about/ab1.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -215,7 +215,7 @@
         <div class="arck-project-slider">
             <div class="arck-project-item position-relative two">
                 <div class="inner-img">
-                    <img src="assets/img/project/pro1.jpg" alt="">
+                    <img src="/assets/img/project/pro1.jpg" alt="">
                 </div>
                 <div class="inner-text">
                     <div class="project-title-desc headline pera-content">
@@ -231,7 +231,7 @@
             </div>
             <div class="arck-project-item position-relative three">
                 <div class="inner-img">
-                    <img src="assets/img/project/pro2.jpg" alt="">
+                    <img src="/assets/img/project/pro2.jpg" alt="">
                 </div>
                 <div class="inner-text">
                     <div class="project-title-desc headline pera-content">
@@ -247,7 +247,7 @@
             </div>
             <div class="arck-project-item position-relative foure">
                 <div class="inner-img">
-                    <img src="assets/img/project/pro3.jpg" alt="">
+                    <img src="/assets/img/project/pro3.jpg" alt="">
                 </div>
                 <div class="inner-text">
                     <div class="project-title-desc headline pera-content">
@@ -263,7 +263,7 @@
             </div>
             <div class="arck-project-item position-relative foure five">
                 <div class="inner-img">
-                    <img src="assets/img/project/pro4.jpg" alt="">
+                    <img src="/assets/img/project/pro4.jpg" alt="">
                 </div>
                 <div class="inner-text">
                     <div class="project-title-desc headline pera-content">
@@ -279,7 +279,7 @@
             </div>
             <div class="arck-project-item position-relative foure two">
                 <div class="inner-img">
-                    <img src="assets/img/project/pro1.jpg" alt="">
+                    <img src="/assets/img/project/pro1.jpg" alt="">
                 </div>
                 <div class="inner-text">
                     <div class="project-title-desc headline pera-content">
@@ -295,7 +295,7 @@
             </div>
             <div class="arck-project-item position-relative three three">
                 <div class="inner-img">
-                    <img src="assets/img/project/pro2.jpg" alt="">
+                    <img src="/assets/img/project/pro2.jpg" alt="">
                 </div>
                 <div class="inner-text">
                     <div class="project-title-desc headline pera-content">
@@ -311,7 +311,7 @@
             </div>
             <div class="arck-project-item position-relative foure">
                 <div class="inner-img">
-                    <img src="assets/img/project/pro3.jpg" alt="">
+                    <img src="/assets/img/project/pro3.jpg" alt="">
                 </div>
                 <div class="inner-text">
                     <div class="project-title-desc headline pera-content">
@@ -327,7 +327,7 @@
             </div>
             <div class="arck-project-item position-relative five six">
                 <div class="inner-img">
-                    <img src="assets/img/project/pro4.jpg" alt="">
+                    <img src="/assets/img/project/pro4.jpg" alt="">
                 </div>
                 <div class="inner-text">
                     <div class="project-title-desc headline pera-content">
@@ -364,7 +364,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="arck-work-process-item text-center position-relative">
                         <div class="inner-icon">
-                            <img src="assets/icon/ic4.png" alt="">
+                            <img src="/assets/icon/ic4.png" alt="">
                         </div>
                         <div class="inner-text headline pera-content">
                             <h3>Planeamiento y diseño</h3>
@@ -383,7 +383,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="arck-work-process-item text-center position-relative">
                         <div class="inner-icon">
-                            <img src="assets/icon/ic5.png" alt="">
+                            <img src="/assets/icon/ic5.png" alt="">
                         </div>
                         <div class="inner-text headline pera-content">
                             <h3>Dibujos y bocetos</h3>
@@ -402,7 +402,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                     <div class="arck-work-process-item text-center position-relative">
                         <div class="inner-icon">
-                            <img src="assets/icon/ic6.png" alt="">
+                            <img src="/assets/icon/ic6.png" alt="">
                         </div>
                         <div class="inner-text headline pera-content">
                             <h3>Iniciar la construcción</h3>
@@ -473,7 +473,7 @@
                         <div class="acrk-img-shape1 position-absolute"><i></i></div>
                         <div class="acrk-img-shape2 position-absolute"><i></i></div>
                         <div class="inner-img">
-                            <img src="assets/img/about/ab2.jpg" alt="">
+                            <img src="/assets/img/about/ab2.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -495,7 +495,7 @@
                                     </div>
                                     <div class="inner-author">
                                         <div class="author-img">
-                                            <img src="assets/img/about/tst1.jpg" alt="">
+                                            <img src="/assets/img/about/tst1.jpg" alt="">
                                         </div>
                                         <div class="author-text headline">
                                             <h3>Cliente 1</h3>
@@ -511,7 +511,7 @@
                                     </div>
                                     <div class="inner-author">
                                         <div class="author-img">
-                                            <img src="assets/img/about/tst1.jpg" alt="">
+                                            <img src="/assets/img/about/tst1.jpg" alt="">
                                         </div>
                                         <div class="author-text headline">
                                             <h3>Cliente 2</h3>
@@ -527,7 +527,7 @@
                                     </div>
                                     <div class="inner-author">
                                         <div class="author-img">
-                                            <img src="assets/img/about/tst1.jpg" alt="">
+                                            <img src="/assets/img/about/tst1.jpg" alt="">
                                         </div>
                                         <div class="author-text headline">
                                             <h3>Cliente 3</h3>
@@ -549,7 +549,7 @@
 <!-- Start of Appointment video section
 	============================================= -->
 <section hidden id="arck-appointment-video" class="arck-appointment-video-section position-relative">
-    <span class="side-icon position-absolute"><img src="assets/icon/ic7.png" alt=""></span>
+    <span class="side-icon position-absolute"><img src="/assets/icon/ic7.png" alt=""></span>
     <div class="container">
         <div class="arck-appointment-form-wrap">
             <div class="arck-section-title headline pera-content wow fadeInUp" data-wow-delay="200ms"
@@ -579,9 +579,9 @@
             </form>
         </div>
     </div>
-    <div class="arck-video-play-wrap position-absolute" data-background="assets/img/bg/v-bg.jpg">
+    <div class="arck-video-play-wrap position-absolute" data-background="/assets/img/bg/v-bg.jpg">
         <div class="arck-video-img-wrap">
-            <img src="assets/img/bg/v-bg.jpg" alt="">
+            <img src="/assets/img/bg/v-bg.jpg" alt="">
         </div>
         <div class="arck-video-play-btn">
             <a class="d-flex align-items-center video_box justify-content-center"
@@ -590,7 +590,7 @@
         <div class="arck-video-cta-wrap position-absolute d-flex">
             <div class="video-cta-item d-flex">
                 <div class="inner-icon">
-                    <img src="assets/icon/ic8.png" alt="">
+                    <img src="/assets/icon/ic8.png" alt="">
                 </div>
                 <div class="inner-text headline pera-content">
                     <h3>Office Address:</h3>
@@ -600,7 +600,7 @@
             </div>
             <div class="video-cta-item d-flex active">
                 <div class="inner-icon">
-                    <img src="assets/icon/ic9.png" alt="">
+                    <img src="/assets/icon/ic9.png" alt="">
                 </div>
                 <div class="inner-text headline pera-content">
                     <h3>Mail Us:</h3>
@@ -610,7 +610,7 @@
             </div>
             <div class="video-cta-item d-flex">
                 <div class="inner-icon">
-                    <img src="assets/icon/ic10.png" alt="">
+                    <img src="/assets/icon/ic10.png" alt="">
                 </div>
                 <div class="inner-text headline pera-content">
                     <h3>Telephone:</h3>
@@ -640,28 +640,28 @@
     <div class="container">
         <div class="arck-sponsor-slider">
             <div class="arck-sponsor-slider-item">
-                <img src="assets/img/sponsor/sp1.png" alt="">
+                <img src="/assets/img/sponsor/sp1.png" alt="">
             </div>
             <div class="arck-sponsor-slider-item">
-                <img src="assets/img/sponsor/sp2.png" alt="">
+                <img src="/assets/img/sponsor/sp2.png" alt="">
             </div>
             <div class="arck-sponsor-slider-item">
-                <img src="assets/img/sponsor/sp3.png" alt="">
+                <img src="/assets/img/sponsor/sp3.png" alt="">
             </div>
             <div class="arck-sponsor-slider-item">
-                <img src="assets/img/sponsor/sp4.png" alt="">
+                <img src="/assets/img/sponsor/sp4.png" alt="">
             </div>
             <div class="arck-sponsor-slider-item">
-                <img src="assets/img/sponsor/sp5.png" alt="">
+                <img src="/assets/img/sponsor/sp5.png" alt="">
             </div>
             <div class="arck-sponsor-slider-item">
-                <img src="assets/img/sponsor/sp1.png" alt="">
+                <img src="/assets/img/sponsor/sp1.png" alt="">
             </div>
             <div class="arck-sponsor-slider-item">
-                <img src="assets/img/sponsor/sp2.png" alt="">
+                <img src="/assets/img/sponsor/sp2.png" alt="">
             </div>
             <div class="arck-sponsor-slider-item">
-                <img src="assets/img/sponsor/sp3.png" alt="">
+                <img src="/assets/img/sponsor/sp3.png" alt="">
             </div>
         </div>
     </div>

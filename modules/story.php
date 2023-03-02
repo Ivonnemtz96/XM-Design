@@ -1,7 +1,7 @@
 <!-- Start of Breadcrumb section
 	============================================= -->
 <section id="arck-breadcrumb" class="arck-breadcrumb-section-2 position-relative"
-  data-background="assets/img/bg/ar-shape.png">
+  data-background="/assets/img/bg/ar-shape.png">
   <div class="slider-side-content position-absolute">
     <span class="archx-slider-side1 position-absolute"><a href="#">Contact@gmail.com</a></span>
   </div>
@@ -28,9 +28,9 @@
           <div class="arck-about-img-wrapper position-relative">
             <div class="acrk-img-shape1 position-absolute"><i></i></div>
             <div class="acrk-img-shape2 position-absolute"><i></i></div>
-            <span class="shape1 position-absolute"><img src="assets/img/bg/dot-shape.png" alt=""></span>
+            <span class="shape1 position-absolute"><img src="/assets/img/bg/dot-shape.png" alt=""></span>
             <div class="inner-img">
-              <img src="assets/img/about/ab4.jpg" alt="">
+              <img src="/assets/img/about/ab4.jpg" alt="">
             </div>
           </div>
         </div>
@@ -59,7 +59,7 @@
             </div>
             <div class="about-signature-img d-flex wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
               <div class="inner-img">
-                <img src="assets/img/about/abs1.jpg" alt="">
+                <img src="/assets/img/about/abs1.jpg" alt="">
               </div>
               <div class="inner-text headline  position-relative">
                 <h3>‘’SIEMPRE PONGO UN TEMA CONTROVERTIDO. ESO INICIA UNA CONVERSACIÓN.’’ </h3>
@@ -100,7 +100,7 @@
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
           <div class="arck-work-process-item text-center position-relative">
             <div class="inner-icon">
-              <img src="assets/icon/ic4.png" alt="">
+              <img src="/assets/icon/ic4.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
               <h3>Planeamiento y diseño</h3>
@@ -119,7 +119,7 @@
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
           <div class="arck-work-process-item text-center position-relative">
             <div class="inner-icon">
-              <img src="assets/icon/ic5.png" alt="">
+              <img src="/assets/icon/ic5.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
               <h3>Dibujos y bocetos</h3>
@@ -138,7 +138,7 @@
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
           <div class="arck-work-process-item text-center position-relative">
             <div class="inner-icon">
-              <img src="assets/icon/ic6.png" alt="">
+              <img src="/assets/icon/ic6.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
               <h3>Iniciar la construcción</h3>
@@ -162,7 +162,7 @@
 
 <!-- Start of CTA section
 	============================================= -->
-<section id="arck-cta" class="arck-cta-section position-relative" data-background="assets/img/bg/cta-bg.jpg">
+<section id="arck-cta" class="arck-cta-section position-relative" data-background="/assets/img/bg/cta-bg.jpg">
   <div class="background_overlay"></div>
   <div class="container">
     <div class="arck-cta-content text-center headline position-relative">
@@ -278,7 +278,7 @@
               <a class="d-flex align-items-center justify-content-center" href="#"><i class="fas fa-play"></i></a>
             </div>
             <div class="inner-img">
-              <img src="assets/img/about/ab5.jpg" alt="">
+              <img src="/assets/img/about/ab5.jpg" alt="">
             </div>
           </div>
         </div>
@@ -343,7 +343,7 @@
         <div class="arck-slider-inner-item">
           <div class="arck-team-item position-relative">
             <div class="inner-img">
-              <img src="assets/img/team/tm1.jpg" alt="">
+              <img src="/assets/img/team/tm1.jpg" alt="">
             </div>
             <div class="inner-text text-center headline pera-content">
               <h3><a href="team-single.html">Mrowni Rosen</a></h3>
@@ -362,7 +362,7 @@
         <div class="arck-slider-inner-item">
           <div class="arck-team-item position-relative">
             <div class="inner-img">
-              <img src="assets/img/team/tm2.jpg" alt="">
+              <img src="/assets/img/team/tm2.jpg" alt="">
             </div>
             <div class="inner-text text-center headline pera-content">
               <h3><a href="team-single.html">Mrowni Rosen</a></h3>
@@ -381,7 +381,7 @@
         <div class="arck-slider-inner-item">
           <div class="arck-team-item position-relative">
             <div class="inner-img">
-              <img src="assets/img/team/tm3.jpg" alt="">
+              <img src="/assets/img/team/tm3.jpg" alt="">
             </div>
             <div class="inner-text text-center headline pera-content">
               <h3><a href="team-single.html">Mrowni Rosen</a></h3>
@@ -400,7 +400,7 @@
         <div class="arck-slider-inner-item">
           <div class="arck-team-item position-relative">
             <div class="inner-img">
-              <img src="assets/img/team/tm1.jpg" alt="">
+              <img src="/assets/img/team/tm1.jpg" alt="">
             </div>
             <div class="inner-text text-center headline pera-content">
               <h3><a href="team-single.html">Mrowni Rosen</a></h3>
@@ -419,7 +419,7 @@
         <div class="arck-slider-inner-item">
           <div class="arck-team-item position-relative">
             <div class="inner-img">
-              <img src="assets/img/team/tm2.jpg" alt="">
+              <img src="/assets/img/team/tm2.jpg" alt="">
             </div>
             <div class="inner-text text-center headline pera-content">
               <h3><a href="team-single.html">Mrowni Rosen</a></h3>
@@ -438,7 +438,7 @@
         <div class="arck-slider-inner-item">
           <div class="arck-team-item position-relative">
             <div class="inner-img">
-              <img src="assets/img/team/tm3.jpg" alt="">
+              <img src="/assets/img/team/tm3.jpg" alt="">
             </div>
             <div class="inner-text text-center headline pera-content">
               <h3><a href="team-single.html">Mrowni Rosen</a></h3>
@@ -472,7 +472,7 @@
             <div class="acrk-img-shape1 position-absolute"><i></i></div>
             <div class="acrk-img-shape2 position-absolute"><i></i></div>
             <div class="inner-img">
-              <img src="assets/img/about/ab2.jpg" alt="">
+              <img src="/assets/img/about/ab2.jpg" alt="">
             </div>
           </div>
         </div>
@@ -492,7 +492,7 @@
                   </div>
                   <div class="inner-author">
                     <div class="author-img">
-                      <img src="assets/img/about/tst1.jpg" alt="">
+                      <img src="/assets/img/about/tst1.jpg" alt="">
                     </div>
                     <div class="author-text headline">
                       <h3>Thone De Smith </h3>
@@ -508,7 +508,7 @@
                   </div>
                   <div class="inner-author">
                     <div class="author-img">
-                      <img src="assets/img/about/tst1.jpg" alt="">
+                      <img src="/assets/img/about/tst1.jpg" alt="">
                     </div>
                     <div class="author-text headline">
                       <h3>Thone De Smith </h3>
@@ -524,7 +524,7 @@
                   </div>
                   <div class="inner-author">
                     <div class="author-img">
-                      <img src="assets/img/about/tst1.jpg" alt="">
+                      <img src="/assets/img/about/tst1.jpg" alt="">
                     </div>
                     <div class="author-text headline">
                       <h3>Thone De Smith </h3>
@@ -549,28 +549,28 @@
   <div class="container">
     <div class="arck-sponsor-slider">
       <div class="arck-sponsor-slider-item">
-        <img src="assets/img/sponsor/sp1.png">
+        <img src="/assets/img/sponsor/sp1.png">
       </div>
       <div class="arck-sponsor-slider-item">
-        <img src="assets/img/sponsor/sp2.png">
+        <img src="/assets/img/sponsor/sp2.png">
       </div>
       <div class="arck-sponsor-slider-item">
-        <img src="assets/img/sponsor/sp3.png">
+        <img src="/assets/img/sponsor/sp3.png">
       </div>
       <div class="arck-sponsor-slider-item">
-        <img src="assets/img/sponsor/sp4.png">
+        <img src="/assets/img/sponsor/sp4.png">
       </div>
       <div class="arck-sponsor-slider-item">
-        <img src="assets/img/sponsor/sp5.png">
+        <img src="/assets/img/sponsor/sp5.png">
       </div>
       <div class="arck-sponsor-slider-item">
-        <img src="assets/img/sponsor/sp1.png">
+        <img src="/assets/img/sponsor/sp1.png">
       </div>
       <div class="arck-sponsor-slider-item">
-        <img src="assets/img/sponsor/sp2.png">
+        <img src="/assets/img/sponsor/sp2.png">
       </div>
       <div class="arck-sponsor-slider-item">
-        <img src="assets/img/sponsor/sp3.png">
+        <img src="/assets/img/sponsor/sp3.png">
       </div>
     </div>
   </div>
