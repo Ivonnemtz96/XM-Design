@@ -445,13 +445,13 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="arck-counter-inner-item headline pera-content text-center position-relative">
                         <h3><span class="counter">212</span>+</h3>
-                        <p>Expert Engineer</p>
+                        <p>Expertos</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="arck-counter-inner-item headline pera-content text-center position-relative">
                         <h3><span class="counter">100</span>+</h3>
-                        <p>National Awards </p>
+                        <p>Proyectos en marcha</p>
                     </div>
                 </div>
             </div>
@@ -631,7 +631,7 @@
 <div class="container text-center">
     <div class="arck-section-title headline pera-content wow fadeInUp" data-wow-delay="400ms"
         data-wow-duration="1500ms">
-        <span class="sub-title text-uppercase">Opiniones</span>
+        <span class="sub-title text-uppercase">No tenemos límites</span>
         <h2>Empresas con las qhe hemos colaborado</h2>
     </div>
 </div>
