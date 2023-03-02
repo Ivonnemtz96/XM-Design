@@ -1,7 +1,7 @@
 <section id="arck-slider-1" class="arck-slider-section-1 position-relative">
     <div id="arck-slider-main_1" class="arck-slider-area">
         <div class="arck-main-slider-item position-relative">
-            <div class="arck-main-slider-img position-absolute img-zooming" data-background="/assets/img/slider/s1.jpg">
+            <div class="arck-main-slider-img position-absolute img-zooming" data-background="/assets/img/slider/s1.jpg?=1">
             </div>
             <div class="container">
                 <div class="arck-slider-main-text headline position-relative">
@@ -20,7 +20,7 @@
             </div>
         </div>
         <div class="arck-main-slider-item position-relative">
-            <div class="arck-main-slider-img position-absolute img-zooming" data-background="/assets/img/slider/s2.jpg">
+            <div class="arck-main-slider-img position-absolute img-zooming" data-background="/assets/img/slider/s2.jpg?=1">
             </div>
             <div class="container">
                 <div class="arck-slider-main-text headline position-relative">
@@ -39,7 +39,7 @@
             </div>
         </div>
         <div class="arck-main-slider-item position-relative">
-            <div class="arck-main-slider-img position-absolute img-zooming" data-background="/assets/img/slider/s3.jpg">
+            <div class="arck-main-slider-img position-absolute img-zooming" data-background="/assets/img/slider/s3.jpg?=1">
             </div>
             <div class="container">
                 <div class="arck-slider-main-text headline position-relative">
@@ -73,7 +73,7 @@
                     <div class="arck-service-item text-center position-relative">
                         <span class="serial-no position-absolute">01</span>
                         <div class="hover-img position-absolute">
-                            <img src="/assets/img/service/ser1.jpg" alt="">
+                            <img src="/assets/img/service/ser1.jpg?=1" alt="">
                         </div>
                         <div class="inner-icon position-relative">
                             <img src="/assets/icon/ic1.png" alt="">
@@ -94,7 +94,7 @@
                     <div class="arck-service-item text-center position-relative active">
                         <span class="serial-no position-absolute">02</span>
                         <div class="hover-img position-absolute">
-                            <img src="/assets/img/service/ser1.jpg" alt="">
+                            <img src="/assets/img/service/ser2.jpg?=1" alt="">
                         </div>
                         <div class="inner-icon position-relative">
                             <img src="/assets/icon/ic2.png" alt="">
@@ -115,7 +115,7 @@
                     <div class="arck-service-item text-center position-relative">
                         <span class="serial-no position-absolute">03</span>
                         <div class="hover-img position-absolute">
-                            <img src="/assets/img/service/ser1.jpg" alt="">
+                            <img src="/assets/img/service/ser3.jpg?=1" alt="">
                         </div>
                         <div class="inner-icon position-relative">
                             <img src="/assets/icon/ic3.png" alt="">
@@ -180,7 +180,7 @@
                         <div class="acrk-img-shape2 position-absolute"><i></i></div>
                         <span class="shape1 position-absolute"><img src="/assets/img/bg/dot-shape.png" alt=""></span>
                         <div class="inner-img">
-                            <img src="/assets/img/about/ab1.jpg" alt="">
+                            <img src="/assets/img/about/ab1.jpg?=1" alt="">
                         </div>
                     </div>
                 </div>
@@ -473,7 +473,7 @@
                         <div class="acrk-img-shape1 position-absolute"><i></i></div>
                         <div class="acrk-img-shape2 position-absolute"><i></i></div>
                         <div class="inner-img">
-                            <img src="/assets/img/about/ab2.jpg" alt="">
+                            <img src="/assets/img/about/ab2.jpg?=1" alt="">
                         </div>
                     </div>
                 </div>

@@ -1,7 +1,7 @@
 <header id="arck-header" class="arck-header-section header-style-one">
   <div class="arck-header-main-content d-flex justify-content-between align-items-center">
     <div class="brand-logo">
-      <a href="/"><img src="/assets/img/logo/logo-4.png" alt="xm design"></a>
+      <a href="/"><img src="/assets/img/logo/logo-4.png?=1" alt="xm design"></a>
     </div>
     <div class="arck-main-navigation-wrap">
       <nav class="main-navigation clearfix ul-li">
@@ -48,7 +48,7 @@
             <i class="fal fa-times"></i>
           </div>
           <div class="m-brand-logo">
-            <a href="/"><img src="/assets/img/logo/logo-5.png" alt="xm design"></a>
+            <a href="/"><img src="/assets/img/logo/logo-5.png?=1" alt="xm design"></a>
           </div>
           <nav class="mobile-main-navigation  clearfix ul-li">
             <ul id="m-main-nav" class="nav navbar-nav clearfix">
