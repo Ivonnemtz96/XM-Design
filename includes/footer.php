@@ -1,5 +1,5 @@
 <footer id="arck-footer" class="arck-footer-section" data-background="assets/img/bg/footer-bg.jpg">
-    <div class="arck-footer-widget-wrapper">
+    <div hidden class="arck-footer-widget-wrapper">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-6">
@@ -88,6 +88,6 @@
         </div>
     </div>
     <div class="arck-footer-copyright text-center">
-        ©2022 All rights reserved. Theme by <a href="#">themexriver</a>
+        ©2023 XM Design. Diseñado por <a href="https://bananagroup.mx">Banana Group Marketing</a>
     </div>
 </footer>
