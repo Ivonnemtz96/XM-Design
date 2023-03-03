@@ -41,7 +41,7 @@
                   <div class="inner-text headline pera-content">
                     <h3>Dirección:</h3>
                     <p>
-                      Rancho Cerro Colorado,23403 San José del Cabo, B.C.S
+                    C. Paseo del Pescador, Mauricio Castro, 23443 San José del Cabo, B.C.S.
                     </p>
                   </div>
                 </div>
@@ -109,6 +109,6 @@
 	============================================= -->
 <div class="contact_map">
   <iframe class="arck_map"
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.7004042467906!2d-109.63673864909195!3d23.071442820214553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af59df53ffffff%3A0xf2fd7def024176c7!2sXIMENA%20MONCADA!5e0!3m2!1ses!2smx!4v1677784212659!5m2!1ses!2smx"
+    src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d648.9294072697058!2d-109.70644632446253!3d23.064164164933267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2smx!4v1677882314674!5m2!1ses-419!2smx"
     width="100%" height="475"></iframe>
 </div>

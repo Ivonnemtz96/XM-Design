@@ -63,7 +63,7 @@
                         <div class="feature-list ul-li-block">
                             <ul>
                                 <li>Lugar: <span>San José del Cabo</span></li>
-                                <li>Projecto: <span>Diseño de interiores</span></li>
+                                <li>Proyecto: <span>Diseño de interiores</span></li>
                                 <li>Diseñada por: <span>XM Design</span></li>
                             </ul>
                         </div>

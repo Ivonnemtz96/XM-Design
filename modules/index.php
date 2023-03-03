@@ -490,7 +490,7 @@
 <!-- Start of Testimonial section
 	============================================= -->
 <section id="arck-testimonial" class="arck-testimonial-section">
-    <div class="container">
+    <div class="container" id="opiniones">
         <div class="arck-testimonial-content">
             <div class="row">
                 <div class="col-lg-6 wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
