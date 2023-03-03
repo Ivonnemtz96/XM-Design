@@ -11,8 +11,8 @@ include('includes/head.php');
     include('includes/header.php');
     include('modules/contact.php');
     include('includes/footer.php');
+    include('includes/btn-whats.php');
     include('includes/scripts.php');
     ?>
 </body>
-
 </html>

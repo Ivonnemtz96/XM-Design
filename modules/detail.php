@@ -70,9 +70,9 @@
                         <div class="project-share d-flex justify-content-between">
                             <span class="title">Síguenos en nuestras redes</span>
                             <div class="share-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.facebook.com/profile.php?id=100081517936485&paipv=0&eav=AfZsD3U3VEizE6mkJZ6YGZ6MJCWDiHPZ5Tu3T8uhXRdwu5WSljaFd7euAkLB8tAP95M"><i class="fab fa-facebook-f"></i></a>
                                 <a href="https://twitter.com/xmdesign_co"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.instagram.com/xmdesign.co/"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
