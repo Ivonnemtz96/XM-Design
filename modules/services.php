@@ -127,7 +127,7 @@
           <div class="arck-service-item-2 position-relative">
             <span class="service-shape position-absolute"><img src="/assets/img/shape/ser-icon1.png" alt=""></span>
             <div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-              <img src="/assets/icon/ic16.png" alt="">
+              <img src="/assets/icon/ic17.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
               <h3><a href="service-single.html">Asesor de diseño</a></h3>
@@ -144,7 +144,7 @@
           <div class="arck-service-item-2 position-relative">
             <span class="service-shape position-absolute"><img src="/assets/img/shape/ser-icon1.png" alt=""></span>
             <div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-              <img src="/assets/icon/ic16.png" alt="">
+              <img src="/assets/icon/ic18.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
               <h3><a href="service-single.html">Tapicería y cortinas</a></h3>
@@ -162,10 +162,10 @@
           <div class="arck-service-item-2 position-relative">
             <span class="service-shape position-absolute"><img src="/assets/img/shape/ser-icon1.png" alt=""></span>
             <div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-              <img src="/assets/icon/ic16.png" alt="">
+              <img src="/assets/icon/ic19.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
-              <h3><a href="service-single.html">Limpieza de cortinas, muebles y moquetas</a></h3>
+              <h3><a href="service-single.html">Limpieza de cortinas</a></h3>
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
@@ -179,7 +179,7 @@
           <div class="arck-service-item-2 position-relative">
             <span class="service-shape position-absolute"><img src="/assets/img/shape/ser-icon1.png" alt=""></span>
             <div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-              <img src="/assets/icon/ic16.png" alt="">
+              <img src="/assets/icon/ic20.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
               <h3><a href="service-single.html">Limpieza de muebles</a></h3>
@@ -196,7 +196,7 @@
           <div class="arck-service-item-2 position-relative">
             <span class="service-shape position-absolute"><img src="/assets/img/shape/ser-icon1.png" alt=""></span>
             <div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-              <img src="/assets/icon/ic16.png" alt="">
+              <img src="/assets/icon/ic21.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
               <h3><a href="service-single.html">Limpieza de moquetas</a></h3>

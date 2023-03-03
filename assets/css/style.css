@@ -1519,13 +1519,13 @@ body {
   transition: var(--transition);
 }
 .arck-service-item-2:hover {
-  background-color: var(--black-color);
+  background-color:#26325e;
 }
 .arck-service-item-2:hover .inner-icon {
-  border: 5px solid #2f2f2f;
+  border: 5px solid #fff;
 }
 .arck-service-item-2:hover .inner-icon:before, .arck-service-item-2:hover .inner-icon:after {
-  background-color: var(--black-color);
+  background-color: #fff;
 }
 .arck-service-item-2:hover .inner-text h3, .arck-service-item-2:hover .inner-text p, .arck-service-item-2:hover .inner-text .read-more-btn {
   color: var(--white-color);
