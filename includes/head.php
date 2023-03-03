@@ -1,6 +1,6 @@
 <head>
 	<meta charset="UTF-8">
-	<title>Home Page 4</title>
+	<title>XM Design - <? echo $title ?></title>
 	<meta name="description" content="Archix - Architecture and Interior Design HTML Template">
 	<meta name="keywords" content="apartments, architect, architecture, building, clean, construction, creative, decoration, interior design, minimal, modern, portfolio, residence, studio">
 	<meta name="author" content="Themexriver">
@@ -17,4 +17,7 @@
 	<link rel="stylesheet" href="/assets/css/global.css">
 	<link rel="stylesheet" href="/assets/css/reset.css">
 	<link rel="stylesheet" href="/assets/css/style.css">
+
+	<!-- magnific popup -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.magnific-popup/1.0.0/magnific-popup.css">
 </head>

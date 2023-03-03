@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
+$title = "Inicio";
 include('includes/head.php');
 ?>
 

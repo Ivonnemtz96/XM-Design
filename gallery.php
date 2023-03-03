@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
+$title = "Galería";
 include('includes/head.php');
 ?>
 
