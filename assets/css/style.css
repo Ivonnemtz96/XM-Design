@@ -476,7 +476,7 @@ body {
   padding-bottom: var(--padding-bottom-45);
 }
 .arck-header-section .main-navigation li:hover a {
-  color: var(--main-color);
+  color: #000;
 }
 .arck-header-section.header-style-one {
   top: 0;
@@ -485,7 +485,7 @@ body {
   z-index: 100;
   padding: 35px 60px;
   position: absolute;
-  background-color: var(--black-color-2);
+  background-color: #26325e;
 }
 .arck-header-section.header-style-one.inner-page-header {
   background-color: rgba(31, 31, 31, 0.302);
@@ -551,7 +551,7 @@ body {
           animation-fill-mode: both;
   -webkit-animation-name: fadeInDown;
           animation-name: fadeInDown;
-  background-color: var(--black-color);
+  background-color: #26325e;
   -webkit-animation-timing-function: ease;
           animation-timing-function: ease;
   -webkit-transition: 0.3s all ease-in-out;
@@ -954,7 +954,7 @@ body {
   overflow: hidden;
   z-index: 1;
   padding: 100px 55px 0px 55px;
-  background-color: var(--black-color-2);
+  background-color: var(--main-color);
 }
 .arck-slider-section-1:before, .arck-slider-section-1:after {
   content: "";
