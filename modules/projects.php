@@ -58,7 +58,7 @@
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                        <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -77,7 +77,7 @@
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                        <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -96,7 +96,7 @@
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                        <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -115,7 +115,7 @@
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                        <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                        <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -153,7 +153,7 @@
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                        <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -172,7 +172,7 @@
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                        <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -192,7 +192,7 @@
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                        <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
