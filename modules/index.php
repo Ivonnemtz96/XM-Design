@@ -409,6 +409,7 @@
                             <p>
                                 En nuestro equipo, entendemos la importancia de la coordinación y la colaboración para
                                 garantizar que el proyecto avance sin problemas desde el inicio hasta la finalización.
+                                <br><br>
                             </p>
                             <div class="work-serial position-relative">
                                 <h4>03</h4>

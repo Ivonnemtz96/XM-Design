@@ -28,10 +28,10 @@
         <div class="col-lg-6">
           <div class="arck-contact-page-cta position-relative">
             <div class="contact-cta-inner-img position-relative">
-              <img src="/assets/img/about/cn1.jpg" alt="">
+              <img src="/assets/img/about/cn1.jpg?=1" alt="">
             </div>
             <div class="contact-cta-inner-text position-absolute headline pera-content"
-              data-background="/assets/img/about/cn-bg.jpg">
+              data-background="/assets/img/about/cn-bg.jpg?=1">
               <h3>Detalles de contacto</h3>
               <div class="arck-video-cta-wrap">
                 <div class="video-cta-item d-flex">
