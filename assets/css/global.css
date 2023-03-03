@@ -1,7 +1,7 @@
 :root {
 	
 	/* #ff6b61 in decimal RGB */
-  --main-color: rgb(255, 107, 97);
+  --main-color: rgb(30, 50, 94, .8);
   --main-color-2: #D28F51;
   
   /* #1a1a1a in decimal RGB */

@@ -1751,10 +1751,10 @@ body {
 }
 .about-signature-img .inner-img {
   width: 120px;
-  height: 100px;
+  height: 200px;
   overflow: hidden;
   margin-right: 25px;
-  border-radius: 10px;
+  border-radius: 20px;
 }
 .about-signature-img .inner-text h3 {
   color: var(--black-color);
@@ -1881,7 +1881,7 @@ body {
   opacity: 0;
   font-weight: 700;
   font-size: var(--font-14);
-  color: var(--main-color);
+  color:#fff;
   display: inline-block;
   margin-bottom: var(--margin-bottom-15);
   -webkit-transform: translateY(20px);

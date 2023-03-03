@@ -6,7 +6,7 @@
             <div class="container">
                 <div class="arck-slider-main-text headline position-relative">
                     <span class="line-shape position-absolute"></span>
-                    <div class="slider-sub-text text-uppercase">
+                    <div style="color:#fff" class="slider-sub-text text-uppercase">
                         Ximena Moncada Design
                     </div>
                     <h1>
@@ -25,7 +25,7 @@
             <div class="container">
                 <div class="arck-slider-main-text headline position-relative">
                     <span class="line-shape position-absolute"></span>
-                    <div class="slider-sub-text text-uppercase">
+                    <div style="color:#fff" class="slider-sub-text text-uppercase">
                         Lugares que inspiran
                     </div>
                     <h1>
@@ -44,7 +44,7 @@
             <div class="container">
                 <div class="arck-slider-main-text headline position-relative">
                     <span class="line-shape position-absolute"></span>
-                    <div class="slider-sub-text text-uppercase">
+                    <div style="color:#fff" class="slider-sub-text text-uppercase">
                         La perfección de la proporción
                     </div>
                     <h1>

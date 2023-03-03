@@ -30,7 +30,7 @@
             <div class="acrk-img-shape2 position-absolute"><i></i></div>
             <span class="shape1 position-absolute"><img src="/assets/img/bg/dot-shape.png" alt=""></span>
             <div class="inner-img">
-              <img src="/assets/img/about/ab4.jpg" alt="">
+              <img src="/assets/img/about/ab4.jpg?=1" alt="">
             </div>
           </div>
         </div>
@@ -59,7 +59,7 @@
             </div>
             <div class="about-signature-img d-flex wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
               <div class="inner-img">
-                <img src="/assets/img/about/abs1.jpg" alt="">
+                <img src="/assets/img/about/abs1.jpg?=1" alt="">
               </div>
               <div class="inner-text headline  position-relative">
                 <h3>‘’SIEMPRE PONGO UN TEMA CONTROVERTIDO. ESO INICIA UNA CONVERSACIÓN.’’ </h3>
@@ -71,7 +71,7 @@
               </div>
             </div>
             <div class="arck-btn">
-              <a class="d-flex justify-content-center align-items-center text-uppercase" href="project.html">Ver
+              <a class="d-flex justify-content-center align-items-center text-uppercase" href="/projects">Ver
                 Proyectos</a>
             </div>
           </div>
@@ -145,6 +145,7 @@
               <p>
                 En nuestro equipo, entendemos la importancia de la coordinación y la colaboración para
                 garantizar que el proyecto avance sin problemas desde el inicio hasta la finalización.
+                <br><br>
               </p>
               <div class="work-serial position-relative">
                 <h4>03</h4>
@@ -162,7 +163,7 @@
 
 <!-- Start of CTA section
 	============================================= -->
-<section id="arck-cta" class="arck-cta-section position-relative" data-background="/assets/img/bg/cta-bg.jpg">
+<section id="arck-cta" class="arck-cta-section position-relative" data-background="/assets/img/bg/cta-bg.jpg?=1">
   <div class="background_overlay"></div>
   <div class="container">
     <div class="arck-cta-content text-center headline position-relative">
