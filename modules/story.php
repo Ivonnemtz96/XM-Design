@@ -171,7 +171,7 @@
       </h2>
       <div class="arck-cta-button-group d-flex justify-content-center">
         <div class="arck-btn">
-          <a class="d-flex justify-content-center align-items-center text-uppercase" href="contact.html">Contactar</a>
+          <a class="d-flex justify-content-center align-items-center text-uppercase" href="/contact">Contactar</a>
         </div>
         <div class="arck-cta-number d-flex align-items-center ">
           <i class="fal fa-phone-alt"></i>

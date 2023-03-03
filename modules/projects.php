@@ -51,14 +51,14 @@
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
                             <span class="text-uppercase item-category"><a href="#">Diseño de interiores</a></span>
-                            <h3><a href="project-single.html">Dunas</a></h3>
+                            <h3><a href="/detail">Dunas</a></h3>
                             <p>
                             El espacio desempeña un papel importante en la mente de todas las personas. Al cruzar la puerta, nos encontramos con colores brillantes y atrevidos que recuerdan a las tonalidades del océano. Inspirado en los colores y texturas del entorno, el proyecto Dunas cuenta una historia que traduce el paisaje de Baja California en una villa de lujo emblemática.
                             </p>
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                        <a style="color:#fff;" href="/detail">Ver más<i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -70,14 +70,14 @@
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
                             <span class="text-uppercase item-category"><a href="#">Diseño de interiores</a></span>
-                            <h3><a href="project-single.html">Laguna Hill</a></h3>
+                            <h3><a href="/detail">Laguna Hill</a></h3>
                             <p>
                             El enfoque del proyecto Laguna Hill fue un equilibrio de selecciones atrevidas con mobiliario que se apoya en tonos neutros y que se inspira en las sabrosas comidas de Baja California, su alegre cultura y su vibrante diseño.
                             </p>
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                        <a style="color:#fff;" href="/detail">Ver más<i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -89,14 +89,14 @@
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
                             <span class="text-uppercase item-category"><a href="#">Diseño de interiores</a></span>
-                            <h3><a href="project-single.html">Palmilla</a></h3>
+                            <h3><a href="/detail">Palmilla</a></h3>
                             <p>
                             El concepto para Palmilla era crear una escapada mexicana contemporánea con maderas cálidas, mobiliario neutro y acentos en azul y amarillo. Las líneas claras que forma el espacio permiten que la luz del sur penetre en la casa desde todos los ángulos.
                             </p>
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                        <a style="color:#fff;" href="/detail">Ver más<i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -108,14 +108,14 @@
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
                             <span class="text-uppercase item-category"><a href="#">Diseño de interiores</a></span>
-                            <h3><a href="project-single.html">Villa</a></h3>
+                            <h3><a href="/detail">Villa</a></h3>
                             <p>
                             El proyecto Villa se creó para crear un espacio atemporal y lleno de encanto, con un proceso único de selección de muebles a medida.
                             </p>
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                        <a style="color:#fff;" href="/detail">Ver más<i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -127,14 +127,14 @@
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
                             <span class="text-uppercase item-category"><a href="#">Diseño de interiores</a></span>
-                            <h3><a href="project-single.html">Olas 101</a></h3>
+                            <h3><a href="/detail">Olas 101</a></h3>
                             <p>
                             El proyecto Olas 101 se creó para crear un espacio lleno de encanto con un proceso único de selección de mobiliario personalizado.
                             </p>
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                        <a style="color:#fff;" href="/detail">Ver más<i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -146,14 +146,14 @@
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
                             <span class="text-uppercase item-category"><a href="#">Diseño de interiores</a></span>
-                            <h3><a href="project-single.html">Dunas 302</a></h3>
+                            <h3><a href="/detail">Dunas 302</a></h3>
                             <p>
                             Cuando empezamos a pensar en el mobiliario de toda la casa, los caminos son lo primero que tenemos en cuenta.  La funcionalidad del espacio nos permite tomar decisiones estéticas que satisfagan las necesidades de nuestros clientes
                             </p>
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                        <a style="color:#fff;" href="/detail">Ver más<i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -165,14 +165,14 @@
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
                             <span class="text-uppercase item-category"><a href="#">Diseño de interiores</a></span>
-                            <h3><a href="project-single.html">Olas 102</a></h3>
+                            <h3><a href="/detail">Olas 102</a></h3>
                             <p>
                             El proyecto Olas 102 se creó para crear un espacio atemporal y lleno de encanto, con un proceso único de selección de muebles a medida.
                             </p>
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                        <a style="color:#fff;" href="/detail">Ver más<i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -185,14 +185,14 @@
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
                             <span class="text-uppercase item-category"><a href="#">Diseño de interiores</a></span>
-                            <h3><a href="project-single.html">Dunas 103</a></h3>
+                            <h3><a href="/detail">Dunas 103</a></h3>
                             <p>
                             El proyecto Dunas 103 se creó para crear un espacio atemporal y lleno de encanto, con un proceso único de selección de muebles a medida.
                             </p>
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                        <a style="color:#fff;" href="/detail">Ver más<i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -204,14 +204,14 @@
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
                             <span class="text-uppercase item-category"><a href="#">Architecture</a></span>
-                            <h3><a href="project-single.html">Mixitu Duplex Home</a></h3>
+                            <h3><a href="/detail">Mixitu Duplex Home</a></h3>
                             <p>Information architecture helps organize content overall so it’s easy to find and use.
                                 Imagine a storeroom filled to the brim with things these things are all related to
                                 sports.</p>
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a href="project-single.html">View Details <i class="fal fa-arrow-right"></i></a>
+                        <a href="/detail">View Details <i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -223,14 +223,14 @@
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
                             <span class="text-uppercase item-category"><a href="#">Architecture</a></span>
-                            <h3><a href="project-single.html">Mixitu Duplex Home</a></h3>
+                            <h3><a href="/detail">Mixitu Duplex Home</a></h3>
                             <p>Information architecture helps organize content overall so it’s easy to find and use.
                                 Imagine a storeroom filled to the brim with things these things are all related to
                                 sports.</p>
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a href="project-single.html">View Details <i class="fal fa-arrow-right"></i></a>
+                        <a href="/detail">View Details <i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -242,14 +242,14 @@
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
                             <span class="text-uppercase item-category"><a href="#">Architecture</a></span>
-                            <h3><a href="project-single.html">Mixitu Duplex Home</a></h3>
+                            <h3><a href="/detail">Mixitu Duplex Home</a></h3>
                             <p>Information architecture helps organize content overall so it’s easy to find and use.
                                 Imagine a storeroom filled to the brim with things these things are all related to
                                 sports.</p>
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a href="project-single.html">View Details <i class="fal fa-arrow-right"></i></a>
+                        <a href="/detail">View Details <i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -261,14 +261,14 @@
                     <div class="inner-text">
                         <div class="project-title-desc headline pera-content">
                             <span class="text-uppercase item-category"><a href="#">Architecture</a></span>
-                            <h3><a href="project-single.html">Mixitu Duplex Home</a></h3>
+                            <h3><a href="/detail">Mixitu Duplex Home</a></h3>
                             <p>Information architecture helps organize content overall so it’s easy to find and use.
                                 Imagine a storeroom filled to the brim with things these things are all related to
                                 sports.</p>
                         </div>
                     </div>
                     <div class="view-more-btn text-uppercase position-absolute">
-                        <a href="project-single.html">View Details <i class="fal fa-arrow-right"></i></a>
+                        <a href="/detail">View Details <i class="fal fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div> -->

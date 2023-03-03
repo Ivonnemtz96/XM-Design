@@ -32,11 +32,11 @@
               <img src="/assets/icon/ic11.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
-              <h3><a href="service-single.html">Diseño interior de viviendas y locales comerciales</a></h3>
+              <h3><a href="#">Diseño interior de viviendas y locales comerciales</a></h3>
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="service-details.html">Read more <i
+              <a class="read-more-btn text-uppercase" href="#">Read more <i
                   class="fal fa-arrow-right"></i></a>
             </div>
           </div>
@@ -48,11 +48,11 @@
               <img src="/assets/icon/ic12.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
-              <h3><a href="service-single.html">Decoración de interiores de viviendas y locales comerciales</a></h3>
+              <h3><a href="#">Decoración de interiores de viviendas y locales comerciales</a></h3>
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="service-details.html">Read more <i
+              <a class="read-more-btn text-uppercase" href="#">Read more <i
                   class="fal fa-arrow-right"></i></a>
             </div>
           </div>
@@ -64,11 +64,11 @@
               <img src="/assets/icon/ic13.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
-              <h3><a href="service-single.html">Puesta en escena de residencias para ventas y/o alquileres</a></h3>
+              <h3><a href="#">Puesta en escena de residencias para ventas y/o alquileres</a></h3>
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="service-details.html">Read more <i
+              <a class="read-more-btn text-uppercase" href="#">Read more <i
                   class="fal fa-arrow-right"></i></a>
             </div>
           </div>
@@ -80,11 +80,11 @@
               <img src="/assets/icon/ic14.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
-              <h3><a href="service-single.html">Diseño de jardines</a></h3>
+              <h3><a href="#">Diseño de jardines</a></h3>
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="service-details.html">Read more <i
+              <a class="read-more-btn text-uppercase" href="#">Read more <i
                   class="fal fa-arrow-right"></i></a>
             </div>
           </div>
@@ -96,11 +96,11 @@
               <img src="/assets/icon/ic15.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
-              <h3><a href="service-single.html">Jardeniería</a></h3>
+              <h3><a href="#">Jardeniería</a></h3>
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="service-details.html">Read more <i
+              <a class="read-more-btn text-uppercase" href="#">Read more <i
                   class="fal fa-arrow-right"></i></a>
             </div>
           </div>
@@ -112,11 +112,11 @@
               <img src="/assets/icon/ic16.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
-              <h3><a href="service-single.html">Remodelación de espacios</a></h3>
+              <h3><a href="#">Remodelación de espacios</a></h3>
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="service-details.html">Read more <i
+              <a class="read-more-btn text-uppercase" href="#">Read more <i
                   class="fal fa-arrow-right"></i></a>
             </div>
           </div>
@@ -130,11 +130,11 @@
               <img src="/assets/icon/ic17.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
-              <h3><a href="service-single.html">Asesor de diseño</a></h3>
+              <h3><a href="#">Asesor de diseño</a></h3>
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="service-details.html">Read more <i
+              <a class="read-more-btn text-uppercase" href="#">Read more <i
                   class="fal fa-arrow-right"></i></a>
             </div>
           </div>
@@ -147,11 +147,11 @@
               <img src="/assets/icon/ic18.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
-              <h3><a href="service-single.html">Tapicería y cortinas</a></h3>
+              <h3><a href="#">Tapicería y cortinas</a></h3>
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="service-details.html">Read more <i
+              <a class="read-more-btn text-uppercase" href="#">Read more <i
                   class="fal fa-arrow-right"></i></a>
             </div>
           </div>
@@ -165,11 +165,11 @@
               <img src="/assets/icon/ic19.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
-              <h3><a href="service-single.html">Limpieza de cortinas</a></h3>
+              <h3><a href="#">Limpieza de cortinas</a></h3>
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="service-details.html">Read more <i
+              <a class="read-more-btn text-uppercase" href="#">Read more <i
                   class="fal fa-arrow-right"></i></a>
             </div>
           </div>
@@ -182,11 +182,11 @@
               <img src="/assets/icon/ic20.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
-              <h3><a href="service-single.html">Limpieza de muebles</a></h3>
+              <h3><a href="#">Limpieza de muebles</a></h3>
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="service-details.html">Read more <i
+              <a class="read-more-btn text-uppercase" href="#">Read more <i
                   class="fal fa-arrow-right"></i></a>
             </div>
           </div>
@@ -199,11 +199,11 @@
               <img src="/assets/icon/ic21.png" alt="">
             </div>
             <div class="inner-text headline pera-content">
-              <h3><a href="service-single.html">Limpieza de moquetas</a></h3>
+              <h3><a href="#">Limpieza de moquetas</a></h3>
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="service-details.html">Read more <i
+              <a class="read-more-btn text-uppercase" href="#">Read more <i
                   class="fal fa-arrow-right"></i></a>
             </div>
           </div>
@@ -225,7 +225,7 @@
       </h2>
       <div class="arck-cta-button-group d-flex justify-content-center">
         <div class="arck-btn">
-          <a class="d-flex justify-content-center align-items-center text-uppercase" href="contact.html">Contactar</a>
+          <a class="d-flex justify-content-center align-items-center text-uppercase" href="/contact">Contactar</a>
         </div>
         <div class="arck-cta-number d-flex align-items-center ">
           <i class="fal fa-phone-alt"></i>

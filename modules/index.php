@@ -15,7 +15,7 @@
                     </h1>
                     <div class="arck-btn">
                         <a class="d-flex justify-content-center align-items-center text-uppercase"
-                            href="project.html">Ver proyectos</a>
+                            href="/projects">Ver proyectos</a>
                     </div>
                 </div>
             </div>
@@ -35,7 +35,7 @@
                     </h1>
                     <div class="arck-btn">
                         <a class="d-flex justify-content-center align-items-center text-uppercase"
-                            href="project.html">Ver proyectos</a>
+                            href="/projects">Ver proyectos</a>
                     </div>
                 </div>
             </div>
@@ -55,7 +55,7 @@
                     </h1>
                     <div class="arck-btn">
                         <a class="d-flex justify-content-center align-items-center text-uppercase"
-                            href="project.html">Ver proyectos</a>
+                            href="/projects">Ver proyectos</a>
                     </div>
                 </div>
             </div>
@@ -82,12 +82,12 @@
                             <img src="/assets/icon/ic1.png" alt="">
                         </div>
                         <div class="arck-inner-text headline pera-content">
-                            <h3><a href="service-single.html">Remodelación de espacios</a></h3>
+                            <h3><a href="/services">Remodelación de espacios</a></h3>
                             <p>
                                 Desde la planificación hasta la ejecución, cada detalle se cuida con precisión y cuidado
                                 para lograr un resultado armónico y equilibrado.
                             </p>
-                            <a class="btn-more text-uppercase" href="service-single.html">Más servicios <i
+                            <a class="btn-more text-uppercase" href="/services">Más servicios <i
                                     class="fal fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -103,12 +103,12 @@
                             <img src="/assets/icon/ic2.png" alt="">
                         </div>
                         <div class="arck-inner-text headline pera-content">
-                            <h3><a href="service-single.html">Diseño de jardines</a></h3>
+                            <h3><a href="/services">Diseño de jardines</a></h3>
                             <p>
                                 Proceso que refleje la belleza natural del entorno, combinando elementos técnicos y
                                 creativos para lograr una composición personalizada de texturas y colores.
                             </p>
-                            <a class="btn-more text-uppercase" href="service-single.html">Más servicios <i
+                            <a class="btn-more text-uppercase" href="/services">Más servicios <i
                                     class="fal fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -124,14 +124,14 @@
                             <img src="/assets/icon/ic3.png" alt="">
                         </div>
                         <div class="arck-inner-text headline pera-content">
-                            <h3><a href="service-single.html">Tapicería y cortinas</a></h3>
+                            <h3><a href="/services">Tapicería y cortinas</a></h3>
                             <p>
 
                                 Cada pieza es una creación única y personalizada que se adapta a las necesidades y
                                 gustos de cada cliente.
                                 <br><br>
                             </p>
-                            <a class="btn-more text-uppercase" href="service-single.html">Más servicios <i
+                            <a class="btn-more text-uppercase" href="/services">Más servicios <i
                                     class="fal fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -172,7 +172,7 @@
                         </div>
                         <div class="arck-btn wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                             <a class="d-flex justify-content-center align-items-center text-uppercase"
-                                href="about.html">Ver más</a>
+                                href="/story">Ver más</a>
                         </div>
                     </div>
                 </div>
@@ -223,7 +223,7 @@
                 <div class="inner-text">
                     <div class="project-title-desc headline pera-content">
                         <span class="text-uppercase item-category"><a href="#">Diseño de interiores</a></span>
-                        <h3><a href="project-single.html">Dunas</a></h3>
+                        <h3><a href="/detail">Dunas</a></h3>
                         <p>
                             El espacio desempeña un papel importante en la mente de todas las personas. Al cruzar la
                             puerta, nos encontramos con colores brillantes y atrevidos que recuerdan a las tonalidades
@@ -233,7 +233,7 @@
                     </div>
                 </div>
                 <div class="view-more-btn text-uppercase position-absolute">
-                    <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                    <a style="color:#fff;" href="/detail">Ver más<i class="fal fa-arrow-right"></i></a>
                 </div>
             </div>
             <div class="arck-project-item position-relative three">
@@ -243,7 +243,7 @@
                 <div class="inner-text">
                     <div class="project-title-desc headline pera-content">
                         <span class="text-uppercase item-category"><a href="#">Diseño de interiores</a></span>
-                        <h3><a href="project-single.html">Laguna Hill</a></h3>
+                        <h3><a href="/detail">Laguna Hill</a></h3>
                         <p>
                             El enfoque del proyecto Laguna Hill fue un equilibrio de selecciones atrevidas con
                             mobiliario que se apoya en tonos neutros y que se inspira en las sabrosas comidas de Baja
@@ -252,7 +252,7 @@
                     </div>
                 </div>
                 <div class="view-more-btn text-uppercase position-absolute">
-                    <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                    <a style="color:#fff;" href="/detail">Ver más<i class="fal fa-arrow-right"></i></a>
                 </div>
             </div>
             <div class="arck-project-item position-relative foure">
@@ -262,7 +262,7 @@
                 <div class="inner-text">
                     <div class="project-title-desc headline pera-content">
                         <span class="text-uppercase item-category"><a href="#">Diseño de interiores</a></span>
-                        <h3><a href="project-single.html">Palmilla</a></h3>
+                        <h3><a href="/detail">Palmilla</a></h3>
                         <p>
                             El concepto para Palmilla era crear una escapada mexicana contemporánea con maderas cálidas,
                             mobiliario neutro y acentos en azul y amarillo. Las líneas claras que forma el espacio
@@ -271,7 +271,7 @@
                     </div>
                 </div>
                 <div class="view-more-btn text-uppercase position-absolute">
-                    <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                    <a style="color:#fff;" href="/detail">Ver más<i class="fal fa-arrow-right"></i></a>
                 </div>
             </div>
             <div class="arck-project-item position-relative foure five">
@@ -281,7 +281,7 @@
                 <div class="inner-text">
                     <div class="project-title-desc headline pera-content">
                         <span class="text-uppercase item-category"><a href="#">Diseño de interiores</a></span>
-                        <h3><a href="project-single.html">Villa</a></h3>
+                        <h3><a href="/detail">Villa</a></h3>
                         <p>
                             El proyecto Villa se creó para crear un espacio atemporal y lleno de encanto, con un proceso
                             único de selección de muebles a medida.
@@ -289,7 +289,7 @@
                     </div>
                 </div>
                 <div class="view-more-btn text-uppercase position-absolute">
-                    <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                    <a style="color:#fff;" href="/detail">Ver más<i class="fal fa-arrow-right"></i></a>
                 </div>
             </div>
             <div class="arck-project-item position-relative foure two">
@@ -299,7 +299,7 @@
                 <div class="inner-text">
                     <div class="project-title-desc headline pera-content">
                         <span class="text-uppercase item-category"><a href="#">Diseño de interiores</a></span>
-                        <h3><a href="project-single.html">Olas 101</a></h3>
+                        <h3><a href="/detail">Olas 101</a></h3>
                         <p>
                             El proyecto Olas 101 se creó para crear un espacio lleno de encanto con un proceso único de
                             selección de mobiliario personalizado.
@@ -307,7 +307,7 @@
                     </div>
                 </div>
                 <div class="view-more-btn text-uppercase position-absolute">
-                    <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                    <a style="color:#fff;" href="/detail">Ver más<i class="fal fa-arrow-right"></i></a>
                 </div>
             </div>
             <div class="arck-project-item position-relative three three">
@@ -317,7 +317,7 @@
                 <div class="inner-text">
                     <div class="project-title-desc headline pera-content">
                         <span class="text-uppercase item-category"><a href="#">Diseño de interiores</a></span>
-                        <h3><a href="project-single.html">Dunas 302</a></h3>
+                        <h3><a href="/detail">Dunas 302</a></h3>
                         <p>
                             Cuando empezamos a pensar en el mobiliario de toda la casa, los caminos son lo primero que
                             tenemos en cuenta. La funcionalidad del espacio nos permite tomar decisiones estéticas que
@@ -326,7 +326,7 @@
                     </div>
                 </div>
                 <div class="view-more-btn text-uppercase position-absolute">
-                    <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                    <a style="color:#fff;" href="/detail">Ver más<i class="fal fa-arrow-right"></i></a>
                 </div>
             </div>
             <div class="arck-project-item position-relative foure">
@@ -336,7 +336,7 @@
                 <div class="inner-text">
                     <div class="project-title-desc headline pera-content">
                         <span class="text-uppercase item-category"><a href="#">Diseño de interiores</a></span>
-                        <h3><a href="project-single.html">Olas 102</a></h3>
+                        <h3><a href="/detail">Olas 102</a></h3>
                         <p>
                             El proyecto Olas 102 se creó para crear un espacio atemporal y lleno de encanto, con un
                             proceso único de selección de muebles a medida.
@@ -344,7 +344,7 @@
                     </div>
                 </div>
                 <div class="view-more-btn text-uppercase position-absolute">
-                    <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                    <a style="color:#fff;" href="/detail">Ver más<i class="fal fa-arrow-right"></i></a>
                 </div>
             </div>
             <div class="arck-project-item position-relative five six">
@@ -354,7 +354,7 @@
                 <div class="inner-text">
                     <div class="project-title-desc headline pera-content">
                         <span class="text-uppercase item-category"><a href="#">Diseño de interiores</a></span>
-                        <h3><a href="project-single.html">Dunas 103</a></h3>
+                        <h3><a href="/detail">Dunas 103</a></h3>
                         <p>
                             El proyecto Dunas 103 se creó para crear un espacio atemporal y lleno de encanto, con un
                             proceso único de selección de muebles a medida.
@@ -362,7 +362,7 @@
                     </div>
                 </div>
                 <div class="view-more-btn text-uppercase position-absolute">
-                    <a style="color:#fff;" href="project-single.html">Ver más<i class="fal fa-arrow-right"></i></a>
+                    <a style="color:#fff;" href="/detail">Ver más<i class="fal fa-arrow-right"></i></a>
                 </div>
             </div>
         </div>
