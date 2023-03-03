@@ -20,7 +20,7 @@
     </div>
     <div class="header-cta-social d-flex align-items-center">
       <div class="header-cta text-uppercase">
-        call us: <a href="tel:+14243240006">424 324 0006</a>
+        Llámanos: <a href="tel:+14243240006">424 324 0006</a>
       </div>
       <div class="header-social ul-li">
         <ul>
