@@ -290,291 +290,36 @@
 <!-- End of Faq section
 	============================================= -->
 
-<!-- Start of Counter section
-	============================================= -->
-<section id="arck-counter" class="arck-counter-section">
-  <div class="container">
-    <div class="arck-counter-content">
-      <div class="row">
-        <div class="col-lg-3 col-md-6">
-          <div class="arck-counter-inner-item headline pera-content text-center position-relative">
-            <h3><span>30</span>k+</h3>
-            <p>Happy Clients</p>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-6">
-          <div class="arck-counter-inner-item headline pera-content text-center position-relative">
-            <h3><span>34</span>k+</h3>
-            <p>Completed Projects</p>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-6">
-          <div class="arck-counter-inner-item headline pera-content text-center position-relative">
-            <h3><span>212</span>+</h3>
-            <p>Expert Engineer</p>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-6">
-          <div class="arck-counter-inner-item headline pera-content text-center position-relative">
-            <h3><span>100</span>+</h3>
-            <p>National Awards </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- End of Counter section
-	============================================= -->
-
-<!-- Start of Team Membar section
-	============================================= -->
-<section hidden id="arck-team" class="arck-team-section position-relative">
-  <div class="container">
-    <div class="arck-section-title headline text-center pera-content wow fadeInUp" data-wow-delay="200ms"
-      data-wow-duration="1500ms">
-      <span class="sub-title text-uppercase">Our Engineer</span>
-      <h2>Meet Our Skilled Team</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor labore et dolore magna
-        aliqua. Ut enim ad minim veniam quis.
-      </p>
-    </div>
-    <div class="arck-team-content">
-      <div class="arck-team-slider">
-        <div class="arck-slider-inner-item">
-          <div class="arck-team-item position-relative">
-            <div class="inner-img">
-              <img src="/assets/img/team/tm1.jpg" alt="">
-            </div>
-            <div class="inner-text text-center headline pera-content">
-              <h3><a href="team-single.html">Mrowni Rosen</a></h3>
-              <span>Architect</span>
-            </div>
-            <div class="inner-social text-center ul-li">
-              <ul>
-                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="arck-slider-inner-item">
-          <div class="arck-team-item position-relative">
-            <div class="inner-img">
-              <img src="/assets/img/team/tm2.jpg" alt="">
-            </div>
-            <div class="inner-text text-center headline pera-content">
-              <h3><a href="team-single.html">Mrowni Rosen</a></h3>
-              <span>Architect</span>
-            </div>
-            <div class="inner-social text-center ul-li">
-              <ul>
-                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="arck-slider-inner-item">
-          <div class="arck-team-item position-relative">
-            <div class="inner-img">
-              <img src="/assets/img/team/tm3.jpg" alt="">
-            </div>
-            <div class="inner-text text-center headline pera-content">
-              <h3><a href="team-single.html">Mrowni Rosen</a></h3>
-              <span>Architect</span>
-            </div>
-            <div class="inner-social text-center ul-li">
-              <ul>
-                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="arck-slider-inner-item">
-          <div class="arck-team-item position-relative">
-            <div class="inner-img">
-              <img src="/assets/img/team/tm1.jpg" alt="">
-            </div>
-            <div class="inner-text text-center headline pera-content">
-              <h3><a href="team-single.html">Mrowni Rosen</a></h3>
-              <span>Architect</span>
-            </div>
-            <div class="inner-social text-center ul-li">
-              <ul>
-                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="arck-slider-inner-item">
-          <div class="arck-team-item position-relative">
-            <div class="inner-img">
-              <img src="/assets/img/team/tm2.jpg" alt="">
-            </div>
-            <div class="inner-text text-center headline pera-content">
-              <h3><a href="team-single.html">Mrowni Rosen</a></h3>
-              <span>Architect</span>
-            </div>
-            <div class="inner-social text-center ul-li">
-              <ul>
-                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="arck-slider-inner-item">
-          <div class="arck-team-item position-relative">
-            <div class="inner-img">
-              <img src="/assets/img/team/tm3.jpg" alt="">
-            </div>
-            <div class="inner-text text-center headline pera-content">
-              <h3><a href="team-single.html">Mrowni Rosen</a></h3>
-              <span>Architect</span>
-            </div>
-            <div class="inner-social text-center ul-li">
-              <ul>
-                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- End of Team Member  section
-	============================================= -->
-
-<!-- Start of Testimonial section
-	============================================= -->
-<section hidden id="arck-testimonial" class="arck-testimonial-section">
-  <div class="container">
-    <div class="arck-testimonial-content">
-      <div class="row">
-        <div class="col-lg-6">
-          <div class="arck-testimonial-img-wrap position-relative">
-            <div class="acrk-img-shape1 position-absolute"><i></i></div>
-            <div class="acrk-img-shape2 position-absolute"><i></i></div>
-            <div class="inner-img">
-              <img src="/assets/img/about/ab2.jpg" alt="">
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="arck-testimonial-text-wrap">
-            <div class="arck-section-title headline pera-content">
-              <span class="sub-title text-uppercase">Client Review</span>
-              <h2>What Our Client Say</h2>
-            </div>
-            <div class="arck-testimonial-slider-wrap">
-              <div class="arck-testimonial-slider">
-                <div class="arck-teestimonial-item">
-                  <div class="inner-text position-relative">
-                    <i class="fas fa-quote-left"></i> Rorem Ipsum is simply dummy text of the
-                    printing and typesetting industry. dummy text ever since the 1500s throughout
-                    the duration of your project the of your renovation
-                  </div>
-                  <div class="inner-author">
-                    <div class="author-img">
-                      <img src="/assets/img/about/tst1.jpg" alt="">
+  <section id="arck-counter" class="arck-counter-section">
+    <div class="container">
+        <div class="arck-counter-content">
+            <div class="row">
+                <div class="col-lg-3 col-md-6">
+                    <div class="arck-counter-inner-item headline pera-content text-center position-relative">
+                        <h3><span class="counter">30</span>k+</h3>
+                        <p>Clientes Satisfechos</p>
                     </div>
-                    <div class="author-text headline">
-                      <h3>Thone De Smith </h3>
-                      <span>House Owner</span>
-                    </div>
-                  </div>
                 </div>
-                <div class="arck-teestimonial-item">
-                  <div class="inner-text position-relative">
-                    <i class="fas fa-quote-left"></i> Rorem Ipsum is simply dummy text of the
-                    printing and typesetting industry. dummy text ever since the 1500s throughout
-                    the duration of your project the of your renovation
-                  </div>
-                  <div class="inner-author">
-                    <div class="author-img">
-                      <img src="/assets/img/about/tst1.jpg" alt="">
+                <div class="col-lg-3 col-md-6">
+                    <div class="arck-counter-inner-item headline pera-content text-center position-relative">
+                        <h3><span class="counter">34</span>k+</h3>
+                        <p>Poryectos terminados</p>
                     </div>
-                    <div class="author-text headline">
-                      <h3>Thone De Smith </h3>
-                      <span>House Owner</span>
-                    </div>
-                  </div>
                 </div>
-                <div class="arck-teestimonial-item">
-                  <div class="inner-text position-relative">
-                    <i class="fas fa-quote-left"></i> Rorem Ipsum is simply dummy text of the
-                    printing and typesetting industry. dummy text ever since the 1500s throughout
-                    the duration of your project the of your renovation
-                  </div>
-                  <div class="inner-author">
-                    <div class="author-img">
-                      <img src="/assets/img/about/tst1.jpg" alt="">
+                <div class="col-lg-3 col-md-6">
+                    <div class="arck-counter-inner-item headline pera-content text-center position-relative">
+                        <h3><span class="counter">212</span>+</h3>
+                        <p>Expertos</p>
                     </div>
-                    <div class="author-text headline">
-                      <h3>Thone De Smith </h3>
-                      <span>House Owner</span>
-                    </div>
-                  </div>
                 </div>
-              </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="arck-counter-inner-item headline pera-content text-center position-relative">
+                        <h3><span class="counter">100</span>+</h3>
+                        <p>Proyectos en marcha</p>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-      </div>
     </div>
-  </div>
 </section>
-<!-- End of Testimonial section
-	============================================= -->
 
-<!-- Start of Sponsor section
-	============================================= -->
-<section hidden id="arck-sponsor" class="arck-sponsor-section">
-  <div class="container">
-    <div class="arck-sponsor-slider">
-      <div class="arck-sponsor-slider-item">
-        <img src="/assets/img/sponsor/sp1.png">
-      </div>
-      <div class="arck-sponsor-slider-item">
-        <img src="/assets/img/sponsor/sp2.png">
-      </div>
-      <div class="arck-sponsor-slider-item">
-        <img src="/assets/img/sponsor/sp3.png">
-      </div>
-      <div class="arck-sponsor-slider-item">
-        <img src="/assets/img/sponsor/sp4.png">
-      </div>
-      <div class="arck-sponsor-slider-item">
-        <img src="/assets/img/sponsor/sp5.png">
-      </div>
-      <div class="arck-sponsor-slider-item">
-        <img src="/assets/img/sponsor/sp1.png">
-      </div>
-      <div class="arck-sponsor-slider-item">
-        <img src="/assets/img/sponsor/sp2.png">
-      </div>
-      <div class="arck-sponsor-slider-item">
-        <img src="/assets/img/sponsor/sp3.png">
-      </div>
-    </div>
-  </div>
-</section>
-<!-- End of Sponsor section
-	============================================= -->

@@ -633,7 +633,7 @@
     <div class="arck-section-title headline pera-content wow fadeInUp" data-wow-delay="400ms"
         data-wow-duration="1500ms">
         <span class="sub-title text-uppercase">No tenemos límites</span>
-        <h2>Empresas con las qhe hemos colaborado</h2>
+        <h2>Empresas con las que hemos colaborado</h2>
     </div>
 </div>
 
