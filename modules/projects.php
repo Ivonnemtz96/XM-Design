@@ -3,7 +3,8 @@
 <section id="arck-breadcrumb" class="arck-breadcrumb-section-2 position-relative"
     data-background="/assets/img/bg/ar-shape.png">
     <div class="slider-side-content position-absolute">
-        <span class="archx-slider-side1 position-absolute"><a href="#">Contact@gmail.com</a></span>
+        <span class="archx-slider-side1 position-absolute"><a
+        href="mailto:ximena@ximenamoncada.com">ximena@ximenamoncada.com</a></span>
     </div>
     <div class="container">
         <div class="arck-breadcrumb-content position-relative text-center headline-2 ul-li">
@@ -284,7 +285,7 @@
     <div class="arck-section-title headline pera-content wow fadeInUp" data-wow-delay="400ms"
         data-wow-duration="1500ms">
         <span class="sub-title text-uppercase">No tenemos límites</span>
-        <h2>Empresas con las qhe hemos colaborado</h2>
+        <h2>Empresas con las que hemos colaborado</h2>
     </div>
 </div>
 <!-- Start of Sponsor section

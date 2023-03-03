@@ -36,8 +36,6 @@
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="#">Read more <i
-                  class="fal fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -52,8 +50,6 @@
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="#">Read more <i
-                  class="fal fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -68,8 +64,6 @@
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="#">Read more <i
-                  class="fal fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -84,8 +78,6 @@
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="#">Read more <i
-                  class="fal fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -100,8 +92,6 @@
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="#">Read more <i
-                  class="fal fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -116,8 +106,6 @@
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="#">Read more <i
-                  class="fal fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -134,8 +122,6 @@
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="#">Read more <i
-                  class="fal fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -151,8 +137,6 @@
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="#">Read more <i
-                  class="fal fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -169,8 +153,6 @@
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="#">Read more <i
-                  class="fal fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -186,8 +168,6 @@
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="#">Read more <i
-                  class="fal fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -203,8 +183,6 @@
               <p>
               nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus
               </p>
-              <a class="read-more-btn text-uppercase" href="#">Read more <i
-                  class="fal fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -213,6 +191,7 @@
   </div>
 </section>
 <!-- End of Service section
+
 	============================================= -->
 
 <!-- Start of CTA section
