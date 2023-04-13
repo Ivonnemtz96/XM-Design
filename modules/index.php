@@ -2,10 +2,10 @@
 <header class="header slider-fade">
     <div class="owl-carousel owl-theme">
         <!-- The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. -->
-        <div class="text-center item bg-img" data-overlay-dark="2" data-background="/img/slider/2.jpg">
+        <div class="text-center item bg-img" data-overlay-dark="1" data-background="/img/slider/2.webp">
             <div class="v-middle caption">
                 <div class="container">
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-md-10 offset-md-1">
                             <span>
                                 <i class="star-rating"></i>
@@ -19,14 +19,14 @@
                             <div class="butn-light mt-30 mb-30"> <a href="#" data-scroll-nav="1"><span>Rooms &
                                         Suites</span></a> </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
-        <div class="text-center item bg-img" data-overlay-dark="2" data-background="/img/slider/3.jpg">
+        <div class="text-center item bg-img" data-overlay-dark="1" data-background="/img/slider/3.webp">
             <div class="v-middle caption">
                 <div class="container">
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-md-10 offset-md-1">
                             <span>
                                 <i class="star-rating"></i>
@@ -40,14 +40,14 @@
                             <div class="butn-light mt-30 mb-30"> <a href="#" data-scroll-nav="1"><span>Rooms &
                                         Suites</span></a> </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
-        <div class="text-center item bg-img" data-overlay-dark="3" data-background="/img/slider/1.jpg">
+        <div class="text-center item bg-img" data-overlay-dark="1" data-background="/img/slider/1.webp">
             <div class="v-middle caption">
                 <div class="container">
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-md-10 offset-md-1">
                             <span>
                                 <i class="star-rating"></i>
@@ -61,7 +61,7 @@
                             <div class="butn-light mt-30 mb-30"> <a href="#" data-scroll-nav="1"><span>Rooms &
                                         Suites</span></a> </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
