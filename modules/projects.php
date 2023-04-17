@@ -29,7 +29,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
-                            <div class="butn-dark"> <a href="#" data-scroll-nav="1"><span>Ver proyecto</span></a> </div>
+                            <div class="butn-dark"> <a href="/detail" ><span>Ver proyecto</span></a> </div>
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
-                            <div class="butn-dark"> <a href="#" data-scroll-nav="1"><span>Ver proyecto</span></a> </div>
+                            <div class="butn-dark"> <a href="/detail" ><span>Ver proyecto</span></a> </div>
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
-                            <div class="butn-dark"> <a href="#" data-scroll-nav="1"><span>Ver proyecto</span></a> </div>
+                            <div class="butn-dark"> <a href="/detail" ><span>Ver proyecto</span></a> </div>
                         </div>
                     </div>
                 </div>
@@ -62,7 +62,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
-                            <div class="butn-dark"> <a href="#" data-scroll-nav="1"><span>Ver proyecto</span></a> </div>
+                            <div class="butn-dark"> <a href="/detail" ><span>Ver proyecto</span></a> </div>
                         </div>
                     </div>
                 </div>
@@ -76,7 +76,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
-                            <div class="butn-dark"> <a href="#" data-scroll-nav="1"><span>Ver proyecto</span></a> </div>
+                            <div class="butn-dark"> <a href="/detail" ><span>Ver proyecto</span></a> </div>
                         </div>
                     </div>
                 </div>
@@ -87,7 +87,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
-                            <div class="butn-dark"> <a href="#" data-scroll-nav="1"><span>Ver proyecto</span></a> </div>
+                            <div class="butn-dark"> <a href="/detail" ><span>Ver proyecto</span></a> </div>
                         </div>
                     </div>
                 </div>
@@ -98,7 +98,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
-                            <div class="butn-dark"> <a href="#" data-scroll-nav="1"><span>Ver proyecto</span></a> </div>
+                            <div class="butn-dark"> <a href="/detail" ><span>Ver proyecto</span></a> </div>
                         </div>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
-                            <div class="butn-dark"> <a href="#" data-scroll-nav="1"><span>Ver proyecto</span></a> </div>
+                            <div class="butn-dark"> <a href="/detail" ><span>Ver proyecto</span></a> </div>
                         </div>
                     </div>
                 </div>
@@ -121,7 +121,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
-                            <div class="butn-dark"> <a href="#" data-scroll-nav="1"><span>Ver proyecto</span></a> </div>
+                            <div class="butn-dark"> <a href="/detail" ><span>Ver proyecto</span></a> </div>
                         </div>
                     </div>
                 </div>
