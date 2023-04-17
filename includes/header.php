@@ -9,9 +9,9 @@
     <div class="container">
         <!-- Logo -->
         <div class="logo-wrapper navbar-brand valign">
-            <a href="index.html">
+            <a href="/">
                 <div class="logo">
-                    <img src="/img/logo.png" class="logo-img" alt="">
+                    <img src="/img/logo.png?=1" class="logo-img" alt="" style="width: 3.8rem;">
                 </div>
             </a>
         </div>

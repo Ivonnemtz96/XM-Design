@@ -55,7 +55,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="footer-bottom-inner">
-                        <p class="footer-bottom-copy-right">© Copyright 2022 by <a href="#">DuruThemes.com</a></p>
+                        <p class="footer-bottom-copy-right">© XM Design 2023. Diseñado por <a target="_blank" href="https://bananagroup.mx"><strong>Banana Group Marketing</strong></a></p>
                     </div>
                 </div>
             </div>

@@ -81,19 +81,23 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4 mb-30 animate-box" data-animate-effect="fadeInUp">
-                <div class="section-subtitle">The Cappa Luxury Hotel</div>
-                <div class="section-title">Enjoy a Luxury Experience</div>
-                <p>Welcome to the best five-star deluxe hotel in New York. Hotel elementum sesue the aucan vestibulum
-                    aliquam justo in sapien rutrum volutpat. Donec in quis the pellentesque velit. Donec id velit ac
-                    arcu posuere blane.</p>
-                <p>Hotel ut nisl quam nestibulum ac quam nec odio elementum sceisue the aucan ligula. Orci varius
-                    natoque penatibus et magnis dis parturient monte nascete ridiculus mus nellentesque habitant
-                    morbine.</p>
+                <div class="section-subtitle">Dale vida a tus espacios con nuestro toque de creatividad</div>
+                <div class="section-title">Crea un espacio que refleje tu personalidad</div>
+                <p>Desde el comienzo de su carrera como diseñadora de interiores, Ximena Moncada ha sido conocida por
+                    su compromiso único con la satisfacción del cliente y un servicio de alta calidad. Este estándar de
+                    excelencia le ha permitido hacer crecer su práctica y ampliar su alcance a nivel internacional.</p>
+                <p>
+                Ximena continuó su carrera en los EE.UU. obteniendo un título de Parsons New School of Design en
+                    Nueva York. Actualmente reside en Baja California Sur, una zona del mundo que está experimentando un
+                    crecimiento residencial y comercial explosivo. Se ha asociado con las principales empresas de
+                    desarrollo inmobiliario y mayoristas de muebles para el hogar para llevar su estilo distintivo y
+                    talento profesional al mercado de Baja California.
+                </p>
                 <!-- call -->
                 <div class="reservations">
                     <div class="icon"><span class="flaticon-call"></span></div>
                     <div class="text">
-                        <p>Reservation</p> <a href="tel:855-100-4444">855 100 4444</a>
+                    <p>Llamar</p> <a target="_blank" href="tel:+14243240006">+1 424-324-0006</a>
                     </div>
                 </div>
             </div>
@@ -111,8 +115,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="section-subtitle">The Cappa Luxury Hotel</div>
-                <div class="section-title">Rooms & Suites</div>
+                <div class="section-subtitle">Descubre la magia de una decoración única y original</div>
+                <div class="section-title">XM Design</div>
             </div>
         </div>
         <div class="">
@@ -138,79 +142,7 @@
         </div>
     </div>
 </section>
-<!-- Pricing -->
-<section hidden class="pricing section-padding bg-black">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-4">
-                <div class="section-subtitle"><span>Best Prices</span></div>
-                <div class="section-title"><span>Extra Services</span></div>
-                <p class="color-2">The best prices for your relaxing vacation. The utanislen quam nestibulum ac quame
-                    odion elementum sceisue the aucan.</p>
-                <p class="color-2">Orci varius natoque penatibus et magnis disney parturient monte nascete ridiculus mus
-                    nellen etesque habitant morbine.</p>
-                <div class="reservations mb-30">
-                    <div class="icon"><span class="flaticon-call"></span></div>
-                    <div class="text">
-                        <p class="color-2">For information</p> <a href="tel:855-100-4444">855 100 4444</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-8">
-                <div class="owl-carousel owl-theme">
-                    <div class="pricing-card">
-                        <img src="/img/pricing/1.jpg" alt="">
-                        <div class="desc">
-                            <div class="name">Room cleaning</div>
-                            <div class="amount">$50<span>/ month</span></div>
-                            <ul class="list-unstyled list">
-                                <li><i class="ti-check"></i> Hotel ut nisan the duru</li>
-                                <li><i class="ti-check"></i> Orci miss natoque vasa ince</li>
-                                <li><i class="ti-close unavailable"></i>Clean sorem ipsum morbin</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="pricing-card">
-                        <img src="/img/pricing/2.jpg" alt="">
-                        <div class="desc">
-                            <div class="name">Drinks included</div>
-                            <div class="amount">$30<span>/ daily</span></div>
-                            <ul class="list-unstyled list">
-                                <li><i class="ti-check"></i> Hotel ut nisan the duru</li>
-                                <li><i class="ti-check"></i> Orci miss natoque vasa ince</li>
-                                <li><i class="ti-close unavailable"></i>Clean sorem ipsum morbin</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="pricing-card">
-                        <img src="/img/pricing/3.jpg" alt="">
-                        <div class="desc">
-                            <div class="name">Room Breakfast</div>
-                            <div class="amount">$30<span>/ daily</span></div>
-                            <ul class="list-unstyled list">
-                                <li><i class="ti-check"></i> Hotel ut nisan the duru</li>
-                                <li><i class="ti-check"></i> Orci miss natoque vasa ince</li>
-                                <li><i class="ti-close unavailable"></i>Clean sorem ipsum morbin</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="pricing-card">
-                        <img src="/img/pricing/4.jpg" alt="">
-                        <div class="desc">
-                            <div class="name">Safe & Secure</div>
-                            <div class="amount">$15<span>/ daily</span></div>
-                            <ul class="list-unstyled list">
-                                <li><i class="ti-check"></i> Hotel ut nisan the duru</li>
-                                <li><i class="ti-check"></i> Orci miss natoque vasa ince</li>
-                                <li><i class="ti-close unavailable"></i>Clean sorem ipsum morbin</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 <!-- Promo Video -->
 <section class="video-wrapper video section-padding bg-img bg-fixed" data-overlay-dark="3"
     data-background="/img/slider/9.webp">
@@ -222,7 +154,7 @@
                 <div class="section-title"><span>Nuestro equipo de expertos está a tu disposición</span></div>
             </div>
         </div>
-        <div class="row">
+        <!-- <div class="row">
             <div class="text-center col-md-12">
                 <a class="vid" href="https://youtu.be/7BGNAGahig8">
                     <div class="vid-butn">
@@ -233,7 +165,7 @@
                 </a>
             </div>
 
-        </div>
+        </div> -->
     </div>
 </section>
 <!-- Facilties -->
@@ -248,7 +180,7 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="single-facility animate-box" data-animate-effect="fadeInUp">
-                    <span class="flaticon-world"></span>
+                    <!-- <span class="flaticon-world"></span> -->
                     <h5>Diseño interior de viviendas y locales comerciales</h5>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
                         voluptatibus consequatur hic.</p>
@@ -257,7 +189,7 @@
             </div>
             <div class="col-md-4">
                 <div class="single-facility animate-box" data-animate-effect="fadeInUp">
-                    <span class="flaticon-car"></span>
+                    <!-- <span class="flaticon-car"></span> -->
                     <h5>Decoración de interiores de viviendas y locales comerciales</h5>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
                         voluptatibus consequatur hic.</p>
@@ -266,7 +198,7 @@
             </div>
             <div class="col-md-4">
                 <div class="single-facility animate-box" data-animate-effect="fadeInUp">
-                    <span class="flaticon-bed"></span>
+                    <!-- <span class="flaticon-bed"></span> -->
                     <h5>Diseño de jardines</h5>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
                         voluptatibus consequatur hic.</p>
@@ -275,7 +207,7 @@
             </div>
             <div class="col-md-4">
                 <div class="single-facility animate-box" data-animate-effect="fadeInUp">
-                    <span class="flaticon-swimming"></span>
+                    <!-- <span class="flaticon-swimming"></span> -->
                     <h5>Remodelación de espacios</h5>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
                         voluptatibus consequatur hic.</p>
@@ -284,7 +216,7 @@
             </div>
             <div class="col-md-4">
                 <div class="single-facility animate-box" data-animate-effect="fadeInUp">
-                    <span class="flaticon-wifi"></span>
+                    <!-- <span class="flaticon-wifi"></span> -->
                     <h5>Consultor de diseño</h5>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
                         voluptatibus consequatur hic.</p>
@@ -293,12 +225,15 @@
             </div>
             <div class="col-md-4">
                 <div class="single-facility animate-box" data-animate-effect="fadeInUp">
-                    <span class="flaticon-breakfast"></span>
+                    <!-- <span class="flaticon-breakfast"></span> -->
                     <h5>Tapicería y cortinas</h5>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
                         voluptatibus consequatur hic.</p>
                     <div class="facility-shape"> <span class="flaticon-breakfast"></span> </div>
                 </div>
+            </div>
+            <div class="col-md-12 text-center animate-box">
+                <div class="butn-dark"> <a href="/services"><span>Más Servicios</span></a> </div>
             </div>
         </div>
     </div>
@@ -377,7 +312,7 @@
         <div class="row">
             <div class="col-md-6 p-0 animate-box" data-animate-effect="fadeInLeft">
                 <div class="img left">
-                    <a href="restaurant.html"><img src="/img/restaurant/1.webp" alt=""></a>
+                    <a href="/detail"><img src="/img/restaurant/1.webp" alt=""></a>
                 </div>
             </div>
             <div class="col-md-6 p-0 bg-cream valign animate-box" data-animate-effect="fadeInRight">
@@ -393,7 +328,7 @@
                             del océano. Inspirado en los colores y texturas del entorno, el proyecto Dunas cuenta una
                             historia que traduce el paisaje de Baja California en una villa de lujo emblemática.
                         </p>
-                        <div class="butn-dark"> <a href="restaurant.html"><span>Ver más</span></a> </div>
+                        <div class="butn-dark"> <a href="/detail"><span>Ver más</span></a> </div>
                     </div>
                 </div>
             </div>
@@ -411,20 +346,20 @@
                             mobiliario que se apoya en tonos neutros y que se inspira en las sabrosas comidas de Baja
                             California, su alegre cultura y su vibrante diseño.
                         </p>
-                        <div class="butn-dark"> <a href="spa-wellness.html"><span>Ver más</span></a> </div>
+                        <div class="butn-dark"> <a href="/detail"><span>Ver más</span></a> </div>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 p-0 order1 animate-box" data-animate-effect="fadeInRight">
                 <div class="img">
-                    <a href="spa-wellness.html"><img src="/img/restaurant/2.webp" alt=""></a>
+                    <a href="/detail"><img src="/img/restaurant/2.webp" alt=""></a>
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-md-6 p-0 animate-box" data-animate-effect="fadeInLeft">
                 <div class="img left">
-                    <a href="spa-wellness.html"><img src="/img/restaurant/3.webp" alt=""></a>
+                    <a href="/detail"><img src="/img/restaurant/3.webp" alt=""></a>
                 </div>
             </div>
             <div class="col-md-6 p-0 bg-cream valign animate-box" data-animate-effect="fadeInRight">
@@ -439,7 +374,7 @@
                             mobiliario neutro y acentos en azul y amarillo. Las líneas claras que forma el espacio
                             permiten que la luz del sur penetre en la casa desde todos los ángulos.
                         </p>
-                        <div class="butn-dark"> <a href="spa-wellness.html"><span>Ver más</span></a> </div>
+                        <div class="butn-dark"> <a href="/detail"><span>Ver más</span></a> </div>
                     </div>
                 </div>
             </div>
@@ -459,13 +394,13 @@
                             espacio nos permite tomar decisiones estéticas que satisfagan las necesidades de nuestros
                             clientes.
                         </p>
-                        <div class="butn-dark"> <a href="spa-wellness.html"><span>Ver más</span></a> </div>
+                        <div class="butn-dark"> <a href="/detail"><span>Ver más</span></a> </div>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 p-0 order1 animate-box" data-animate-effect="fadeInRight">
                 <div class="img">
-                    <a href="spa-wellness.html"><img src="/img/restaurant/4.webp" alt=""></a>
+                    <a href="/detail"><img src="/img/restaurant/4.webp" alt=""></a>
                 </div>
             </div>
         </div>
