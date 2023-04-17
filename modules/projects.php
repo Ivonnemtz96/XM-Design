@@ -25,7 +25,7 @@
                 <div class="rooms2 mb-90 animate-box" data-animate-effect="fadeInUp">
                     <figure><img src="/img/slider/13.webp" alt="" class="img-fluid"></figure>
                     <div class="caption">
-                        <h4><a href="/proyect-1">Dunas</a></h4>
+                        <h4><a href="//detail">Dunas</a></h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
@@ -36,7 +36,7 @@
                 <div class="rooms2 mb-90 left animate-box" data-animate-effect="fadeInUp">
                     <figure><img src="/img/slider/14.webp" alt="" class="img-fluid"></figure>
                     <div class="caption">
-                        <h4><a href="/proyect-1">Laguna Hill</a></h4>
+                        <h4><a href="//detail">Laguna Hill</a></h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
@@ -47,7 +47,7 @@
                 <div class="rooms2 mb-90 animate-box" data-animate-effect="fadeInUp">
                     <figure><img src="/img/slider/15.webp" alt="" class="img-fluid"></figure>
                     <div class="caption">
-                        <h4><a href="/proyect-1">Palmilla</a></h4>
+                        <h4><a href="//detail">Palmilla</a></h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
@@ -58,7 +58,7 @@
                 <div class="rooms2 left animate-box" data-animate-effect="fadeInUp">
                     <figure><img src="/img/slider/16.webp" alt="" class="img-fluid"></figure>
                     <div class="caption">
-                        <h4><a href="/proyect-1">Villa</a></h4>
+                        <h4><a href="//detail">Villa</a></h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
@@ -72,7 +72,7 @@
                 <div class="rooms2 mb-90 animate-box" data-animate-effect="fadeInUp">
                     <figure><img src="/img/slider/14.webp" alt="" class="img-fluid"></figure>
                     <div class="caption">
-                        <h4><a href="/proyect-1">Villa</a></h4>
+                        <h4><a href="//detail">Villa</a></h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
@@ -83,7 +83,7 @@
                 <div class="rooms2 mb-90 left animate-box" data-animate-effect="fadeInUp">
                     <figure><img src="/img/slider/1.webp" alt="" class="img-fluid"></figure>
                     <div class="caption">
-                        <h4><a href="/proyect-1">Olas 101</a></h4>
+                        <h4><a href="//detail">Olas 101</a></h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
@@ -94,7 +94,7 @@
                 <div class="rooms2 mb-90 animate-box" data-animate-effect="fadeInUp">
                     <figure><img src="/img/slider/5.webp" alt="" class="img-fluid"></figure>
                     <div class="caption">
-                        <h4><a href="/proyect-1">Dunas 302</a></h4>
+                        <h4><a href="//detail">Dunas 302</a></h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
@@ -105,7 +105,7 @@
                 <div class="rooms2 left animate-box" data-animate-effect="fadeInUp">
                     <figure><img src="/img/slider/17.webp" alt="" class="img-fluid"></figure>
                     <div class="caption">
-                        <h4><a href="/proyect-1">Olas 102</a></h4>
+                        <h4><a href="//detail">Olas 102</a></h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
@@ -117,7 +117,7 @@
                 <div class="rooms2 animate-box mt-5" data-animate-effect="fadeInUp">
                     <figure><img src="/img/slider/18.webp" alt="" class="img-fluid"></figure>
                     <div class="caption">
-                        <h4><a href="/proyect-1">Dunas 103</a></h4>
+                        <h4><a href="//detail">Dunas 103</a></h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates id officia non itaque ducimus adipisci!</p>
                         <hr class="border-2">
                         <div class="info-wrapper">
