@@ -21,36 +21,12 @@
         <!-- Navbar links -->
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item dropdown"> <span class="nav-link active"> Home <i class="ti-angle-down"></i></span>
-                    <ul class="dropdown-menu last">
-                        <li class="dropdown-item"><a href="index.html">Home Layout 1</a></li>
-                        <li class="dropdown-item"><a href="index2.html">Home Layout 2</a></li>
-                        <li class="dropdown-item"><a href="index3.html">Home Layout 3</a></li>
-                        <li class="dropdown-item active"><a href="index4.html">Home Layout 4</a></li>
-                        <li class="dropdown-item"><a href="index5.html">Home Layout 5</a></li>
-                        <li class="dropdown-item"><a href="index6.html">Kenburns Slider <em>New</em></a></li>
-                    </ul>
-                </li>
-                <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-                <li class="nav-item dropdown"> <span class="nav-link"> Rooms & Suites <i
-                            class="ti-angle-down"></i></span>
-                    <ul class="dropdown-menu last">
-                        <li class="dropdown-item"><a href="rooms.html">Rooms 1</a></li>
-                        <li class="dropdown-item"><a href="rooms2.html">Rooms 2</a></li>
-                        <li class="dropdown-item"><a href="rooms3.html">Rooms 3</a></li>
-                        <li class="dropdown-item"><a href="room-details.html">Room Details</a></li>
-                    </ul>
-                </li>
-                <li class="nav-item"><a class="nav-link" href="restaurant.html">Restaurant</a></li>
-                <li class="nav-item"><a class="nav-link" href="spa-wellness.html">Spa</a></li>
-                <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
-                <li class="nav-item dropdown"> <span class="nav-link"> News <i class="ti-angle-down"></i></span>
-                    <ul class="dropdown-menu last">
-                        <li class="dropdown-item"><a href="news.html">News 1</a></li>
-                        <li class="dropdown-item"><a href="news2.html">News 2</a></li>
-                        <li class="dropdown-item"><a href="post.html">Single Post</a></li>
-                    </ul>
-                </li>
+                <li class="nav-item"><a class="nav-link" href="/">Inicio</a></li>
+                <li class="nav-item"><a class="nav-link" href="/gallery">Galería</a></li>
+                <li class="nav-item"><a class="nav-link" href="/services">Servicios</a></li>
+                <li class="nav-item"><a class="nav-link" href="/projects">Proyectos</a></li>
+                <li class="nav-item"><a class="nav-link" href="/story">Historia</a></li>
+               
                 <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
             </ul>
         </div>

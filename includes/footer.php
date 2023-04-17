@@ -1,6 +1,6 @@
 <!-- Footer -->
 <footer class="footer">
-    <div class="footer-top">
+    <div hidden class="footer-top">
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
