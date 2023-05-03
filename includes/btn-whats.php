@@ -30,7 +30,7 @@
     right: 0;
     width: 150px;
     overflow: hidden;
-    background-color: #25d366;
+    background-color: #000;
     color: #FFF;
     border-radius: 2px 0 0 2px;
     z-index: 10;
@@ -76,7 +76,8 @@
     right: 0;
     width: 150px;
     overflow: hidden;
-    background: linear-gradient(2deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+    background: #000;
+    /* background: linear-gradient(2deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d); */
     color: #FFF;
     border-radius: 2px 0 0 2px;
     z-index: 10;
@@ -122,7 +123,7 @@
     right: 0;
     width: 150px;
     overflow: hidden;
-    background-color: #3b5998;
+    background-color: #000;
     color: #FFF;
     border-radius: 2px 0 0 2px;
     z-index: 10;
