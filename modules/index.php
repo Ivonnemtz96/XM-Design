@@ -182,54 +182,54 @@
                 <div class="single-facility animate-box" data-animate-effect="fadeInUp">
                     <!-- <span class="flaticon-world"></span> -->
                     <h5>Diseño interior de viviendas y locales comerciales</h5>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
-                        voluptatibus consequatur hic.</p>
-                    <div class="facility-shape"> <span class="flaticon-world"></span> </div>
+                    <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
+                        voluptatibus consequatur hic.</p> -->
+                    <!-- <div class="facility-shape"> <span class="flaticon-world"></span> </div> -->
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="single-facility animate-box" data-animate-effect="fadeInUp">
                     <!-- <span class="flaticon-car"></span> -->
                     <h5>Decoración de interiores de viviendas y locales comerciales</h5>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
-                        voluptatibus consequatur hic.</p>
-                    <div class="facility-shape"> <span class="flaticon-car"></span> </div>
+                    <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
+                        voluptatibus consequatur hic.</p> -->
+                    <!-- <div class="facility-shape"> <span class="flaticon-car"></span> </div> -->
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="single-facility animate-box" data-animate-effect="fadeInUp">
                     <!-- <span class="flaticon-bed"></span> -->
                     <h5>Diseño de jardines</h5>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
-                        voluptatibus consequatur hic.</p>
-                    <div class="facility-shape"> <span class="flaticon-bed"></span> </div>
+                    <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
+                        voluptatibus consequatur hic.</p> -->
+                    <!-- <div class="facility-shape"> <span class="flaticon-bed"></span> </div> -->
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="single-facility animate-box" data-animate-effect="fadeInUp">
                     <!-- <span class="flaticon-swimming"></span> -->
                     <h5>Remodelación de espacios</h5>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
-                        voluptatibus consequatur hic.</p>
-                    <div class="facility-shape"> <span class="flaticon-swimming"></span> </div>
+                    <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
+                        voluptatibus consequatur hic.</p> -->
+                    <!-- <div class="facility-shape"> <span class="flaticon-swimming"></span> </div> -->
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="single-facility animate-box" data-animate-effect="fadeInUp">
                     <!-- <span class="flaticon-wifi"></span> -->
                     <h5>Consultor de diseño</h5>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
-                        voluptatibus consequatur hic.</p>
-                    <div class="facility-shape"> <span class="flaticon-wifi"></span> </div>
+                    <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
+                        voluptatibus consequatur hic.</p> -->
+                    <!-- <div class="facility-shape"> <span class="flaticon-wifi"></span> </div> -->
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="single-facility animate-box" data-animate-effect="fadeInUp">
                     <!-- <span class="flaticon-breakfast"></span> -->
                     <h5>Tapicería y cortinas</h5>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
-                        voluptatibus consequatur hic.</p>
-                    <div class="facility-shape"> <span class="flaticon-breakfast"></span> </div>
+                    <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta odit, facilis recusandae
+                        voluptatibus consequatur hic.</p> -->
+                    <!-- <div class="facility-shape"> <span class="flaticon-breakfast"></span> </div> -->
                 </div>
             </div>
             <div class="col-md-12 text-center animate-box">

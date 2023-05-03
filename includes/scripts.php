@@ -17,3 +17,6 @@
  <script src="/js/datepicker.js"></script>
  <script src="/js/smooth-scroll.min.js"></script>
  <script src="/js/custom.js"></script>
+
+ <!-- icons de redes sociales -->
+<script src="https://kit.fontawesome.com/a66c8c86d9.js" crossorigin="anonymous"></script>
