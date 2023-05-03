@@ -50,9 +50,10 @@ $(function () {
         var bodyScroll = wind.scrollTop(),
             navbar = $(".navbar"),
             logo = $(".navbar .logo> img");
+           
         if (bodyScroll > 100) {
             navbar.addClass("nav-scroll");
-            logo.attr('src', '/img/logo.png');
+            logo.attr('src', '/img/logo2.png?=1');
         } else {
             navbar.removeClass("nav-scroll");
             logo.attr('src', '/img/logo.png');
@@ -73,7 +74,6 @@ $(function () {
             $(this).css("background-image", "url(" + $(this).data("background") + ")");
         }
     });
-
     
     // Animations
     var contentWayPoint = function () {

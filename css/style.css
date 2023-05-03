@@ -1075,18 +1075,18 @@ color: #aa8453;
     }
     .nav-scroll {
         background: #fff;
-}
+
     }
     .logo-wrapper {
         float: left;
         padding: 15px;
     }
-    .nav-scroll .logo-wrapper {
+    /* .nav-scroll .logo-wrapper {
         padding: 15px;
         background-color: #fff;
-    }
-}
+    } */
 
+}
 
 /* ======= Header style ======= */
 .header {

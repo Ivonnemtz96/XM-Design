@@ -11,7 +11,7 @@
         <div class="logo-wrapper navbar-brand valign">
             <a href="/">
                 <div class="logo">
-                    <img src="/img/logo.png?=1" class="logo-img" alt="" style="width: 3.8rem;">
+                    <img src="/img/logo.png?=2" class="logo-img" alt="" style="width: 5.8rem;">
                 </div>
             </a>
         </div>
